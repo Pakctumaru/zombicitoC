@@ -1,0 +1,17 @@
+{
+	id: "b4742f7f-64b4-348c-b2ac-a34f795c8f6b"
+	type: "player"
+	player_name: "daniel16"
+	ranks: {
+		b4742f7f-64b4-348c-b2ac-a34f795c8f6b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "daniel16"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFD3"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
