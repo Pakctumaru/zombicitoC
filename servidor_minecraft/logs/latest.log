@@ -931,3 +931,14 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [12Sep2025 21:21:13.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported Taza_free to VadniesHael]
 [12Sep2025 21:22:12.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VadniesHael> XD
 [12Sep2025 21:22:38.503] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3724, y=65, z=4537} BlockPos{x=-3724, y=63, z=4539}
+[12Sep2025 21:23:49.351] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3716, y=73, z=4505} BlockPos{x=-3717, y=71, z=4506}
+[12Sep2025 21:30:24.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael has made the advancement [Diamonds!]
+[12Sep2025 21:31:22.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taza_free has made the advancement [Diamonds!]
+[12Sep2025 21:32:10.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taza_free has made the advancement [Blossoming Discoveries]
+[12Sep2025 21:32:38.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[12Sep2025 21:33:39.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported Taza_free to VadniesHael]
+[12Sep2025 21:34:22.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael was slain by Zombie
+[12Sep2025 21:34:23.656] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Sep2025 21:35:38.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael fell from a high place
+[12Sep2025 21:35:40.108] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Sep2025 21:35:59.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported VadniesHael to Taza_free]
