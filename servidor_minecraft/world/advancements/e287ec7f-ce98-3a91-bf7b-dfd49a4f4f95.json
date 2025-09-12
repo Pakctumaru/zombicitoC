@@ -4732,6 +4732,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/white_dye_from_mountain_laurel": {
+    "criteria": {
+      "has_mountain_laurel": "2025-09-12 22:43:10 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/acacia_palisade": {
     "criteria": {
       "has_log": "2025-09-12 21:09:26 +0000"

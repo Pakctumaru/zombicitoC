@@ -1067,3 +1067,10 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [12Sep2025 22:27:03.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VadniesHael> D
 [12Sep2025 22:27:04.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VadniesHael> DX
 [12Sep2025 22:28:26.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Set own game mode to Creative Mode]
+[12Sep2025 22:42:15.559] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/584575, l='ServerLevel[world]', x=-3539.52, y=64.02, z=4297.83, removed=DISCARDED]
+[12Sep2025 22:42:15.559] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/584575, l='ServerLevel[world]', x=-3539.52, y=64.02, z=4297.83, removed=DISCARDED]
+[12Sep2025 22:43:29.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taza_free was slain by Zombie
+[12Sep2025 22:43:30.644] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Sep2025 22:43:30.668] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/584575, l='ServerLevel[world]', x=-3539.52, y=64.02, z=4297.83, removed=DISCARDED]
+[12Sep2025 22:44:37.059] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/596637, l='ServerLevel[world]', x=-3526.28, y=65.00, z=4288.55, removed=DISCARDED]
+[12Sep2025 22:44:37.060] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/596637, l='ServerLevel[world]', x=-3526.28, y=65.00, z=4288.55, removed=DISCARDED]
