@@ -4929,9 +4929,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-09-12 23:41:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-09-12 21:57:36 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/bamboo_pallet": {
+    "criteria": {
+      "has_planks": "2025-09-12 23:40:18 +0000"
     },
     "done": true
   },
@@ -5121,9 +5133,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-09-12 23:40:18 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/transportation/jukeboxcart": {
     "criteria": {
       "hasitem": "2025-09-12 22:09:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-09-12 23:40:18 +0000"
     },
     "done": true
   },
@@ -5196,6 +5220,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-09-12 23:09:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-09-12 23:41:44 +0000"
     },
     "done": true
   },
@@ -5421,6 +5451,12 @@
     },
     "done": true
   },
+  "bbb:recipes/bamboo_frame": {
+    "criteria": {
+      "has_planks": "2025-09-12 23:40:18 +0000"
+    },
+    "done": true
+  },
   "bloomingnature:recipes/larch_hanging_sign": {
     "criteria": {
       "has_larch_planks": "2025-09-12 22:22:59 +0000"
@@ -5496,6 +5532,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-09-12 21:31:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-09-12 23:40:18 +0000"
     },
     "done": true
   },

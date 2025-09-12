@@ -4348,6 +4348,12 @@
     },
     "done": true
   },
+  "bbb:recipes/bamboo_pallet": {
+    "criteria": {
+      "has_planks": "2025-09-12 23:42:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2025-09-12 21:09:26 +0000"
@@ -4720,6 +4726,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-09-12 23:42:23 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/transportation/jukeboxcart": {
     "criteria": {
       "hasitem": "2025-09-12 22:08:12 +0000"
@@ -4729,6 +4741,12 @@
   "bbb:recipes/blackstone_layer": {
     "criteria": {
       "has_block": "2025-09-12 21:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-09-12 23:42:23 +0000"
     },
     "done": true
   },
@@ -5392,6 +5410,12 @@
     },
     "done": true
   },
+  "bbb:recipes/bamboo_frame": {
+    "criteria": {
+      "has_planks": "2025-09-12 23:42:23 +0000"
+    },
+    "done": true
+  },
   "bloomingnature:recipes/larch_hanging_sign": {
     "criteria": {
       "has_larch_planks": "2025-09-12 22:23:08 +0000"
@@ -5576,6 +5600,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-09-12 21:30:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-09-12 23:42:23 +0000"
     },
     "done": true
   },
