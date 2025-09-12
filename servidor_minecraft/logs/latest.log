@@ -942,3 +942,116 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [12Sep2025 21:35:38.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael fell from a high place
 [12Sep2025 21:35:40.108] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [12Sep2025 21:35:59.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[12Sep2025 21:38:06.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VadniesHael moved wrongly!
+[12Sep2025 21:38:29.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael was slain by Zombie
+[12Sep2025 21:38:31.013] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Sep2025 21:39:34.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VadniesHael> XD7
+[12Sep2025 21:39:39.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Taza_free> swa
+[12Sep2025 21:39:47.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael was slain by Zombie
+[12Sep2025 21:39:49.316] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Sep2025 21:39:51.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taza_free was slain by Zombie
+[12Sep2025 21:39:55.914] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Sep2025 21:41:42.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VadniesHael> XD
+[12Sep2025 21:42:38.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[12Sep2025 21:44:16.752] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[12Sep2025 21:44:16.756] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[12Sep2025 21:44:16.771] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[12Sep2025 21:44:16.772] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[12Sep2025 21:44:16.779] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[12Sep2025 21:44:16.783] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[12Sep2025 21:44:16.787] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[12Sep2025 21:44:16.789] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[12Sep2025 21:44:16.803] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[12Sep2025 21:44:16.811] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[12Sep2025 21:44:16.812] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[12Sep2025 21:44:16.812] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[12Sep2025 21:44:16.812] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[12Sep2025 21:44:16.812] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[12Sep2025 21:44:16.819] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[12Sep2025 21:44:16.822] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[12Sep2025 21:44:16.829] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[12Sep2025 21:44:16.831] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[12Sep2025 21:44:16.837] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[12Sep2025 21:44:16.842] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[12Sep2025 21:44:16.846] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[12Sep2025 21:44:16.847] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[12Sep2025 21:44:16.863] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[12Sep2025 21:44:16.871] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[12Sep2025 21:44:16.871] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[12Sep2025 21:44:16.871] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[12Sep2025 21:44:16.871] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[12Sep2025 21:44:16.871] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[12Sep2025 21:44:23.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[12Sep2025 21:44:24.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael has made the advancement [Close Quarters]
+[12Sep2025 21:46:05.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael was slain by Zombie
+[12Sep2025 21:46:06.239] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Sep2025 21:47:29.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taza_free was slain by Zombie
+[12Sep2025 21:47:31.848] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Sep2025 21:48:07.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taza_free was slain by Zombie
+[12Sep2025 21:48:09.184] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Sep2025 21:49:01.362] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/219591, l='ServerLevel[world]', x=-3383.19, y=72.00, z=4290.14, removed=DISCARDED]
+[12Sep2025 21:49:08.108] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/220215, l='ServerLevel[world]', x=-3384.25, y=72.00, z=4290.70, removed=DISCARDED]
+[12Sep2025 21:51:00.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[12Sep2025 21:51:00.348] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/220215, l='ServerLevel[world]', x=-3384.25, y=72.00, z=4290.70, removed=DISCARDED]
+[12Sep2025 21:51:00.348] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/219591, l='ServerLevel[world]', x=-3383.19, y=72.00, z=4290.14, removed=DISCARDED]
+[12Sep2025 21:54:26.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taza_free was slain by VadniesHael
+[12Sep2025 21:54:30.700] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Sep2025 21:54:30.726] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/220215, l='ServerLevel[world]', x=-3384.25, y=72.00, z=4290.70, removed=DISCARDED]
+[12Sep2025 21:54:30.726] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/219591, l='ServerLevel[world]', x=-3383.19, y=72.00, z=4290.14, removed=DISCARDED]
+[12Sep2025 21:54:47.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[12Sep2025 21:56:56.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael was slain by Zombie
+[12Sep2025 21:56:57.446] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Sep2025 21:57:04.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[12Sep2025 21:57:04.290] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/220215, l='ServerLevel[world]', x=-3384.25, y=72.00, z=4290.70, removed=DISCARDED]
+[12Sep2025 21:57:04.291] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/219591, l='ServerLevel[world]', x=-3383.19, y=72.00, z=4290.14, removed=DISCARDED]
+[12Sep2025 21:57:25.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael was slain by Zombie
+[12Sep2025 21:57:47.348] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Sep2025 21:57:47.378] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/220215, l='ServerLevel[world]', x=-3384.25, y=72.00, z=4290.70, removed=DISCARDED]
+[12Sep2025 21:57:47.378] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/219591, l='ServerLevel[world]', x=-3383.19, y=72.00, z=4290.14, removed=DISCARDED]
+[12Sep2025 22:02:00.061] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/219591, l='ServerLevel[world]', x=-3383.19, y=72.00, z=4290.14, removed=DISCARDED]
+[12Sep2025 22:02:00.513] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/220215, l='ServerLevel[world]', x=-3384.25, y=72.00, z=4290.70, removed=DISCARDED]
+[12Sep2025 22:02:03.865] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/220215, l='ServerLevel[world]', x=-3384.25, y=72.00, z=4290.70, removed=DISCARDED]
+[12Sep2025 22:02:05.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael was slain by Zombie
+[12Sep2025 22:02:06.578] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Sep2025 22:02:06.613] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/220215, l='ServerLevel[world]', x=-3384.25, y=72.00, z=4290.70, removed=DISCARDED]
+[12Sep2025 22:02:06.613] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/219591, l='ServerLevel[world]', x=-3383.19, y=72.00, z=4290.14, removed=DISCARDED]
+[12Sep2025 22:02:17.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Set own game mode to Spectator Mode]
+[12Sep2025 22:02:39.911] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/219591, l='ServerLevel[world]', x=-3383.19, y=72.00, z=4290.14, removed=DISCARDED]
+[12Sep2025 22:02:40.011] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/220215, l='ServerLevel[world]', x=-3384.25, y=72.00, z=4290.70, removed=DISCARDED]
+[12Sep2025 22:03:17.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Set own game mode to Survival Mode]
+[12Sep2025 22:04:07.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported Taza_free to VadniesHael]
+[12Sep2025 22:04:21.767] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/219591, l='ServerLevel[world]', x=-3383.19, y=72.00, z=4290.14, removed=DISCARDED]
+[12Sep2025 22:04:22.315] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/220215, l='ServerLevel[world]', x=-3384.25, y=72.00, z=4290.70, removed=DISCARDED]
+[12Sep2025 22:04:50.316] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/219591, l='ServerLevel[world]', x=-3383.19, y=72.00, z=4290.14, removed=DISCARDED]
+[12Sep2025 22:04:50.519] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/220215, l='ServerLevel[world]', x=-3384.25, y=72.00, z=4290.70, removed=DISCARDED]
+[12Sep2025 22:05:27.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael was slain by Zombie
+[12Sep2025 22:05:29.496] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Sep2025 22:05:29.516] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/220215, l='ServerLevel[world]', x=-3384.25, y=72.00, z=4290.70, removed=DISCARDED]
+[12Sep2025 22:05:29.516] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/219591, l='ServerLevel[world]', x=-3383.19, y=72.00, z=4290.14, removed=DISCARDED]
+[12Sep2025 22:06:25.175] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/219591, l='ServerLevel[world]', x=-3383.19, y=72.00, z=4290.14, removed=DISCARDED]
+[12Sep2025 22:06:25.368] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/220215, l='ServerLevel[world]', x=-3384.25, y=72.00, z=4290.70, removed=DISCARDED]
+[12Sep2025 22:06:42.718] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/219591, l='ServerLevel[world]', x=-3383.19, y=72.00, z=4290.14, removed=DISCARDED]
+[12Sep2025 22:06:42.970] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/220215, l='ServerLevel[world]', x=-3384.25, y=72.00, z=4290.70, removed=DISCARDED]
+[12Sep2025 22:07:05.968] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/219591, l='ServerLevel[world]', x=-3383.19, y=72.00, z=4290.14, removed=DISCARDED]
+[12Sep2025 22:07:06.169] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/220215, l='ServerLevel[world]', x=-3384.25, y=72.00, z=4290.70, removed=DISCARDED]
+[12Sep2025 22:07:38.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported Taza_free to VadniesHael]
+[12Sep2025 22:09:42.777] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/219591, l='ServerLevel[world]', x=-3383.19, y=72.00, z=4290.14, removed=DISCARDED]
+[12Sep2025 22:09:42.928] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/220215, l='ServerLevel[world]', x=-3384.25, y=72.00, z=4290.70, removed=DISCARDED]
+[12Sep2025 22:10:21.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taza_free has made the advancement [Penteconter]
+[12Sep2025 22:12:21.553] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/220215, l='ServerLevel[world]', x=-3384.25, y=72.00, z=4290.70, removed=DISCARDED]
+[12Sep2025 22:12:21.753] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/219591, l='ServerLevel[world]', x=-3383.19, y=72.00, z=4290.14, removed=DISCARDED]
+[12Sep2025 22:12:28.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[12Sep2025 22:12:28.588] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/220215, l='ServerLevel[world]', x=-3384.25, y=72.00, z=4290.70, removed=DISCARDED]
+[12Sep2025 22:12:28.588] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/219591, l='ServerLevel[world]', x=-3383.19, y=72.00, z=4290.14, removed=DISCARDED]
+[12Sep2025 22:13:52.502] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/219591, l='ServerLevel[world]', x=-3383.19, y=72.00, z=4290.14, removed=DISCARDED]
+[12Sep2025 22:13:52.654] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/220215, l='ServerLevel[world]', x=-3384.25, y=72.00, z=4290.70, removed=DISCARDED]
+[12Sep2025 22:14:20.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael was slain by Taza_free
+[12Sep2025 22:14:22.119] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Sep2025 22:14:22.140] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/220215, l='ServerLevel[world]', x=-3384.25, y=72.00, z=4290.70, removed=DISCARDED]
+[12Sep2025 22:14:22.141] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/219591, l='ServerLevel[world]', x=-3383.19, y=72.00, z=4290.14, removed=DISCARDED]
+[12Sep2025 22:14:29.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[12Sep2025 22:14:35.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VadniesHael> zzzz
+[12Sep2025 22:16:18.760] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/219591, l='ServerLevel[world]', x=-3383.19, y=72.00, z=4290.14, removed=DISCARDED]
+[12Sep2025 22:16:18.955] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/220215, l='ServerLevel[world]', x=-3384.25, y=72.00, z=4290.70, removed=DISCARDED]
+[12Sep2025 22:16:30.623] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/219591, l='ServerLevel[world]', x=-3383.19, y=72.00, z=4290.14, removed=DISCARDED]
+[12Sep2025 22:16:30.974] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/220215, l='ServerLevel[world]', x=-3384.25, y=72.00, z=4290.70, removed=DISCARDED]
