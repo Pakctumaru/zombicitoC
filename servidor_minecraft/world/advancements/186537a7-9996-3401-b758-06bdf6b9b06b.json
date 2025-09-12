@@ -248,6 +248,7 @@
     "criteria": {
       "minecraft:husk": "2025-09-12 21:08:13 +0000",
       "minecraft:zombie": "2025-09-12 19:00:49 +0000",
+      "minecraft:drowned": "2025-09-12 23:22:33 +0000",
       "minecraft:zombie_villager": "2025-09-12 21:28:21 +0000"
     },
     "done": false
