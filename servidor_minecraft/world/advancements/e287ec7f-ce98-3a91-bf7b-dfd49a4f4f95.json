@@ -4054,6 +4054,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
@@ -4114,6 +4126,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/white_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/diorite_layer": {
     "criteria": {
       "has_block": "2025-09-12 21:27:06 +0000"
@@ -4123,6 +4141,18 @@
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-09-12 21:20:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_stove": {
+    "criteria": {
+      "has_light_stove": "2025-09-12 23:50:14 +0000"
     },
     "done": true
   },
@@ -4228,6 +4258,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/mangrove_dark_ceiling_fan": {
+    "criteria": {
+      "has_ceiling_fan": "2025-09-12 23:52:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
@@ -4261,6 +4297,12 @@
   "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_dark_ceiling_fan": {
+    "criteria": {
+      "has_mangrove_light_ceiling_fan": "2025-09-12 23:52:20 +0000"
     },
     "done": true
   },
@@ -4348,6 +4390,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/bamboo_pallet": {
     "criteria": {
       "has_planks": "2025-09-12 23:42:23 +0000"
@@ -4396,9 +4444,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
     },
     "done": true
   },
@@ -4444,6 +4504,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
@@ -4465,6 +4531,12 @@
   "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
     },
     "done": true
   },
@@ -4528,9 +4600,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
+    },
+    "done": true
+  },
   "bloomingnature:recipes/larch_button": {
     "criteria": {
       "has_larch_planks": "2025-09-12 22:23:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
     },
     "done": true
   },
@@ -4591,6 +4675,18 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
     },
     "done": true
   },
@@ -4738,6 +4834,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/blackstone_layer": {
     "criteria": {
       "has_block": "2025-09-12 21:20:09 +0000"
@@ -4765,6 +4867,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
     },
     "done": true
   },
@@ -4906,6 +5014,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/baking/baked_potato": {
     "criteria": {
       "has_ingredient": "2025-09-12 21:08:16 +0000"
@@ -4942,6 +5056,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2025-09-12 21:23:51 +0000"
@@ -4969,6 +5089,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
     },
     "done": true
   },
@@ -5005,6 +5131,12 @@
   "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
     },
     "done": true
   },
@@ -5059,6 +5191,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-09-12 21:20:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
     },
     "done": true
   },
@@ -5134,6 +5272,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-09-12 21:30:24 +0000"
@@ -5152,6 +5296,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
+    },
+    "done": true
+  },
   "bloomingnature:recipes/larch_sign": {
     "criteria": {
       "has_larch_planks": "2025-09-12 22:23:08 +0000"
@@ -5161,6 +5317,12 @@
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-09-12 21:30:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
     },
     "done": true
   },
@@ -5224,6 +5386,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-09-12 21:20:13 +0000"
@@ -5233,6 +5401,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-09-12 21:20:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
     },
     "done": true
   },
@@ -5350,6 +5524,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/door_mat": {
     "criteria": {
       "has_wheat": "2025-09-12 21:51:45 +0000"
@@ -5365,6 +5545,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-09-12 21:20:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
     },
     "done": true
   },
@@ -5422,6 +5608,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/dark_stove": {
+    "criteria": {
+      "has_stove": "2025-09-12 23:50:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_ochrum_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
@@ -5443,6 +5635,12 @@
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2025-09-12 22:08:12 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
     },
     "done": true
   },
@@ -5485,6 +5683,12 @@
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-09-12 22:03:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
     },
     "done": true
   },
@@ -5573,6 +5777,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/lime_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wood_bowl": {
     "criteria": {
       "has_wood_bowl": "2025-09-12 22:28:34 +0000"
@@ -5612,6 +5822,12 @@
   "handcrafted:recipes/misc/wood_plate": {
     "criteria": {
       "has_wood_plate": "2025-09-12 22:28:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
     },
     "done": true
   },
