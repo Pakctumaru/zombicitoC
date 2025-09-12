@@ -1074,3 +1074,4 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [12Sep2025 22:43:30.668] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/584575, l='ServerLevel[world]', x=-3539.52, y=64.02, z=4297.83, removed=DISCARDED]
 [12Sep2025 22:44:37.059] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/596637, l='ServerLevel[world]', x=-3526.28, y=65.00, z=4288.55, removed=DISCARDED]
 [12Sep2025 22:44:37.060] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/596637, l='ServerLevel[world]', x=-3526.28, y=65.00, z=4288.55, removed=DISCARDED]
+[12Sep2025 22:49:09.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Set Taza_free's game mode to Creative Mode]
