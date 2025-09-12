@@ -1092,3 +1092,16 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [12Sep2025 23:18:43.901] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
 [12Sep2025 23:19:33.907] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
 [12Sep2025 23:19:33.907] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[12Sep2025 23:35:23.847] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@75487fd0]Trying to start horde event on day 10 with nextDay 10 and time 10000
+[12Sep2025 23:35:23.847] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@44d4b652
+[12Sep2025 23:35:23.847] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+[12Sep2025 23:35:23.848] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+[12Sep2025 23:35:23.897] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[12Sep2025 23:35:23.897] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[12Sep2025 23:36:13.893] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[12Sep2025 23:36:13.893] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[12Sep2025 23:37:03.900] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[12Sep2025 23:37:03.901] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[12Sep2025 23:37:53.896] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[12Sep2025 23:37:53.896] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[12Sep2025 23:38:13.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported Taza_free to VadniesHael]
