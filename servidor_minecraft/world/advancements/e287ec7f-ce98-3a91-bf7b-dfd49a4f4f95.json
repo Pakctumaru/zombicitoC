@@ -4060,6 +4060,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/travertin_brick_slab": {
+    "criteria": {
+      "has_travertin_bricks": "2025-09-12 22:29:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
@@ -4099,6 +4105,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-09-12 21:30:24 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/red_brick_wall": {
+    "criteria": {
+      "has_red_brick": "2025-09-12 22:29:02 +0000"
     },
     "done": true
   },
@@ -4180,6 +4192,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/larch_fence_gate": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:23:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-09-12 21:30:24 +0000"
@@ -4195,6 +4213,18 @@
   "railways:recipes/transportation/benchcart": {
     "criteria": {
       "hasitem": "2025-09-12 22:08:12 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/larch_fence": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:23:08 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/fir_hanging_sign": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:29:49 +0000"
     },
     "done": true
   },
@@ -4252,9 +4282,21 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/larch_boat": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:23:08 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/heating/baked_potato": {
     "criteria": {
       "has_ingredient": "2025-09-12 21:08:16 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/fir_fence": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:29:49 +0000"
     },
     "done": true
   },
@@ -4267,6 +4309,18 @@
   "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/fir_fence_gate": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:29:49 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/fir_stairs": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:29:49 +0000"
     },
     "done": true
   },
@@ -4396,6 +4450,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-09-12 22:28:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
@@ -4426,6 +4486,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/fir_trapdoor": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:29:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-09-12 21:51:45 +0000"
@@ -4453,6 +4519,30 @@
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-09-12 21:17:05 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/larch_button": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:23:08 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/fir_boat": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:29:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-09-12 22:28:34 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/travertin_brick_stairs": {
+    "criteria": {
+      "has_travertin_bricks": "2025-09-12 22:29:45 +0000"
     },
     "done": true
   },
@@ -4708,6 +4798,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/fir_slab": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:29:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-09-12 21:30:24 +0000"
@@ -4732,6 +4828,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/larch_window": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:23:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-09-12 21:26:20 +0000"
@@ -4741,6 +4843,12 @@
   "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/fir_chest_boat": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:29:49 +0000"
     },
     "done": true
   },
@@ -4840,6 +4948,24 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/fir_window": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:29:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-09-12 22:27:47 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/red_brick_slab": {
+    "criteria": {
+      "has_red_brick": "2025-09-12 22:29:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
@@ -4924,6 +5050,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/larch_chest_boat": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:23:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
@@ -4984,6 +5116,24 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/larch_stairs": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:23:08 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/fir_button": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:29:49 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/larch_sign": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:23:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-09-12 21:30:24 +0000"
@@ -5032,9 +5182,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/controller_rail": {
+    "criteria": {
+      "has_item": "2025-09-12 22:27:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-09-12 21:20:09 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/larch_door": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:23:08 +0000"
     },
     "done": true
   },
@@ -5065,6 +5227,12 @@
   "handcrafted:recipes/misc/blackstone_corner_trim": {
     "criteria": {
       "has_blackstone_corner_trim": "2025-09-12 21:20:09 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/larch_trapdoor": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:23:08 +0000"
     },
     "done": true
   },
@@ -5122,6 +5290,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/fir_sign": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:29:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/ochrum_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
@@ -5131,6 +5305,12 @@
   "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
     "criteria": {
       "has_diorite": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/larch_slab": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:23:08 +0000"
     },
     "done": true
   },
@@ -5182,6 +5362,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/travertin_brick_wall": {
+    "criteria": {
+      "has_travertin_bricks": "2025-09-12 22:29:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
@@ -5200,9 +5386,21 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/larch_hanging_sign": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:23:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_ochrum_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-09-12 22:27:47 +0000"
     },
     "done": true
   },
@@ -5272,6 +5470,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/red_brick_stairs": {
+    "criteria": {
+      "has_red_brick": "2025-09-12 22:29:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-09-12 21:27:06 +0000"
@@ -5338,9 +5542,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-09-12 22:28:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/fir_door": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:29:49 +0000"
     },
     "done": true
   },
@@ -5353,6 +5569,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-09-12 21:30:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-09-12 22:28:34 +0000"
     },
     "done": true
   },

@@ -1055,3 +1055,15 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [12Sep2025 22:16:18.955] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/220215, l='ServerLevel[world]', x=-3384.25, y=72.00, z=4290.70, removed=DISCARDED]
 [12Sep2025 22:16:30.623] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/219591, l='ServerLevel[world]', x=-3383.19, y=72.00, z=4290.14, removed=DISCARDED]
 [12Sep2025 22:16:30.974] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/220215, l='ServerLevel[world]', x=-3384.25, y=72.00, z=4290.70, removed=DISCARDED]
+[12Sep2025 22:21:17.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[12Sep2025 22:27:01.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VadniesHael> XXDXDXDXDX
+[12Sep2025 22:27:01.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VadniesHael> DXD
+[12Sep2025 22:27:02.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VadniesHael> XD
+[12Sep2025 22:27:02.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VadniesHael> XD
+[12Sep2025 22:27:02.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VadniesHael> X
+[12Sep2025 22:27:02.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VadniesHael> DX
+[12Sep2025 22:27:02.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VadniesHael> DX
+[12Sep2025 22:27:03.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VadniesHael> DX
+[12Sep2025 22:27:03.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VadniesHael> D
+[12Sep2025 22:27:04.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VadniesHael> DX
+[12Sep2025 22:28:26.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Set own game mode to Creative Mode]

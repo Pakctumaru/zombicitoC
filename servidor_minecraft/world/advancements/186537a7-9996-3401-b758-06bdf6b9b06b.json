@@ -4748,6 +4748,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2025-09-12 22:28:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-09-12 21:26:23 +0000"
@@ -4757,6 +4763,30 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-09-12 21:31:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-09-12 22:24:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_cushion": {
+    "criteria": {
+      "has_gray_cushion": "2025-09-12 22:24:07 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/larch_fence_gate": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:22:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-09-12 22:23:55 +0000"
     },
     "done": true
   },
@@ -4784,6 +4814,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/larch_fence": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:22:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2025-09-12 21:56:32 +0000"
@@ -4808,9 +4844,21 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/larch_boat": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:22:59 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/mossy_cobblestone_layer": {
     "criteria": {
       "has_block": "2025-09-12 21:26:23 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/misc/brown_dye_from_bark_mushroom": {
+    "criteria": {
+      "has_bark_mushroom": "2025-09-12 22:23:55 +0000"
     },
     "done": true
   },
@@ -4850,6 +4898,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-09-12 22:24:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-09-12 21:31:22 +0000"
@@ -4877,6 +4931,12 @@
   "securitycraft:recipes/misc/crystal_quartz_item": {
     "criteria": {
       "has_prismarine_crystals": "2025-09-12 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/larch_button": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:22:59 +0000"
     },
     "done": true
   },
@@ -4931,6 +4991,12 @@
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-09-12 21:50:15 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-09-12 22:24:07 +0000"
     },
     "done": true
   },
@@ -5018,6 +5084,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/larch_window": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:22:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-09-12 22:07:47 +0000"
@@ -5042,6 +5114,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2025-09-12 22:28:52 +0000"
+    },
+    "done": true
+  },
   "lootr:25loot": {
     "criteria": {
       "loot_stat": "2025-09-12 21:14:44 +0000"
@@ -5060,6 +5138,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/larch_chest_boat": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:22:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-09-12 21:56:32 +0000"
@@ -5069,6 +5153,18 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-09-12 21:31:22 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/larch_stairs": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:22:59 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/larch_sign": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:22:59 +0000"
     },
     "done": true
   },
@@ -5084,6 +5180,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-09-12 22:24:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-09-12 21:31:22 +0000"
@@ -5096,15 +5198,39 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/larch_door": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:22:59 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/quartz_fence": {
     "criteria": {
       "has_block": "2025-09-12 21:56:32 +0000"
     },
     "done": true
   },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-09-12 22:24:07 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/larch_trapdoor": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:22:59 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/quartz_corner_trim": {
     "criteria": {
       "has_quartz_corner_trim": "2025-09-12 21:56:32 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/larch_slab": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:22:59 +0000"
     },
     "done": true
   },
@@ -5132,6 +5258,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/larch_hanging_sign": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:22:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2025-09-12 21:56:32 +0000"
@@ -5147,6 +5279,18 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-09-12 21:57:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-09-12 22:28:52 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_sheet": {
+    "criteria": {
+      "has_gray_sheet": "2025-09-12 22:24:07 +0000"
     },
     "done": true
   },
