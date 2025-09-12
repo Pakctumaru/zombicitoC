@@ -4820,6 +4820,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/fir_hanging_sign": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:56:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2025-09-12 21:56:32 +0000"
@@ -4850,6 +4856,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/fir_fence": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:56:17 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/mossy_cobblestone_layer": {
     "criteria": {
       "has_block": "2025-09-12 21:26:23 +0000"
@@ -4862,6 +4874,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/fir_fence_gate": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:56:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-09-12 21:48:27 +0000"
@@ -4871,6 +4889,12 @@
   "handcrafted:recipes/misc/quartz_pillar_trim": {
     "criteria": {
       "has_quartz_pillar_trim": "2025-09-12 21:56:32 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/fir_stairs": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:56:17 +0000"
     },
     "done": true
   },
@@ -4928,6 +4952,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/fir_trapdoor": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:56:17 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/crystal_quartz_item": {
     "criteria": {
       "has_prismarine_crystals": "2025-09-12 22:04:47 +0000"
@@ -4937,6 +4967,12 @@
   "bloomingnature:recipes/larch_button": {
     "criteria": {
       "has_larch_planks": "2025-09-12 22:22:59 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/fir_boat": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:56:17 +0000"
     },
     "done": true
   },
@@ -5078,6 +5114,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/fir_slab": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:56:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-09-12 21:31:22 +0000"
@@ -5087,6 +5129,12 @@
   "bloomingnature:recipes/larch_window": {
     "criteria": {
       "has_larch_planks": "2025-09-12 22:22:59 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/fir_chest_boat": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:56:17 +0000"
     },
     "done": true
   },
@@ -5105,6 +5153,12 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_core": "2025-09-12 22:04:52 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/fir_window": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:56:17 +0000"
     },
     "done": true
   },
@@ -5159,6 +5213,12 @@
   "bloomingnature:recipes/larch_stairs": {
     "criteria": {
       "has_larch_planks": "2025-09-12 22:22:59 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/fir_button": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:56:17 +0000"
     },
     "done": true
   },
@@ -5225,6 +5285,12 @@
   "handcrafted:recipes/misc/quartz_corner_trim": {
     "criteria": {
       "has_quartz_corner_trim": "2025-09-12 21:56:32 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/fir_sign": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:56:17 +0000"
     },
     "done": true
   },
@@ -5315,6 +5381,12 @@
   "railways:recipes/misc/stonecutting/riveted_locometal": {
     "criteria": {
       "has_item": "2025-09-12 21:48:27 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/fir_door": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:56:17 +0000"
     },
     "done": true
   },
