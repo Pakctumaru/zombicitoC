@@ -23474,3 +23474,318 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [13Sep2025 00:04:27.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Sep2025 00:04:27.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [13Sep2025 00:06:41.800] [IO-Worker-153/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-158
+[13Sep2025 00:09:27.420] [IO-Worker-158/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-159
+[13Sep2025 00:09:27.421] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[13Sep2025 00:09:27.421] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[13Sep2025 00:09:27.421] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[13Sep2025 00:09:27.421] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[13Sep2025 00:09:27.421] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[13Sep2025 00:09:27.421] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[13Sep2025 00:09:27.421] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[13Sep2025 00:09:27.421] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[13Sep2025 00:09:27.421] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[13Sep2025 00:09:27.421] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:processor_condition_type
+[13Sep2025 00:09:27.421] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[13Sep2025 00:09:27.421] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[13Sep2025 00:09:27.421] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[13Sep2025 00:09:27.421] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:condition
+[13Sep2025 00:09:27.421] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[13Sep2025 00:09:27.421] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[13Sep2025 00:09:27.421] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[13Sep2025 00:09:27.421] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[13Sep2025 00:09:27.421] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[13Sep2025 00:09:27.421] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[13Sep2025 00:09:27.421] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[13Sep2025 00:09:27.421] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[13Sep2025 00:09:27.421] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[13Sep2025 00:09:27.421] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[13Sep2025 00:09:27.421] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:blending_function
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:placement_condition_type
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:villager_trades_item_listing
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: fallingtrees:tree_registry
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:modifier_type
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:modifier_predicate_type
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[13Sep2025 00:09:27.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[13Sep2025 00:09:27.424] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Sep2025 00:09:27.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Sep2025 00:10:01.368] [Server thread/DEBUG] [pointblank/]: 1368 handling client fire request
+[13Sep2025 00:10:01.368] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 111741666 to 16
+[13Sep2025 00:10:01.368] [Server thread/DEBUG] [pointblank/]: 1368 - obtained hit result in 0ms
+[13Sep2025 00:10:01.368] [Server thread/DEBUG] [pointblank/]: 1368 obtained hit results
+[13Sep2025 00:10:01.368] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6ac024c9
+[13Sep2025 00:10:01.368] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Taza_free'/113, l='ServerLevel[world]', x=-3532.44, y=60.00, z=4277.44] sends hit scan notification to ServerPlayer['VadniesHael'/5841, l='ServerLevel[world]', x=-3532.30, y=60.00, z=4274.55]
+[13Sep2025 00:10:01.369] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Taza_free'/113, l='ServerLevel[world]', x=-3532.44, y=60.00, z=4277.44] sends hit scan notification to ServerPlayer['Taza_free'/113, l='ServerLevel[world]', x=-3532.44, y=60.00, z=4277.44]
+[13Sep2025 00:10:04.591] [Server thread/DEBUG] [pointblank/]: 4591 handling client fire request
+[13Sep2025 00:10:04.591] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 111741666 to 15
+[13Sep2025 00:10:04.592] [Server thread/DEBUG] [pointblank/]: 4592 - obtained hit result in 0ms
+[13Sep2025 00:10:04.592] [Server thread/DEBUG] [pointblank/]: 4592 obtained hit results
+[13Sep2025 00:10:04.592] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@18b69742
+[13Sep2025 00:10:04.592] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Taza_free'/113, l='ServerLevel[world]', x=-3532.48, y=60.50, z=4280.06] sends hit scan notification to ServerPlayer['VadniesHael'/5841, l='ServerLevel[world]', x=-3532.30, y=60.00, z=4274.55]
+[13Sep2025 00:10:04.592] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Taza_free'/113, l='ServerLevel[world]', x=-3532.48, y=60.50, z=4280.06] sends hit scan notification to ServerPlayer['Taza_free'/113, l='ServerLevel[world]', x=-3532.48, y=60.50, z=4280.06]
+[13Sep2025 00:10:04.714] [Server thread/DEBUG] [pointblank/]: 4714 handling client fire request
+[13Sep2025 00:10:04.714] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 111741666 to 14
+[13Sep2025 00:10:04.714] [Server thread/DEBUG] [pointblank/]: 4714 - obtained hit result in 0ms
+[13Sep2025 00:10:04.714] [Server thread/DEBUG] [pointblank/]: 4714 obtained hit results
+[13Sep2025 00:10:04.714] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@54a716f3
+[13Sep2025 00:10:04.715] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Taza_free'/113, l='ServerLevel[world]', x=-3532.48, y=60.50, z=4280.06] sends hit scan notification to ServerPlayer['VadniesHael'/5841, l='ServerLevel[world]', x=-3532.30, y=60.00, z=4274.55]
+[13Sep2025 00:10:04.715] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Taza_free'/113, l='ServerLevel[world]', x=-3532.48, y=60.50, z=4280.06] sends hit scan notification to ServerPlayer['Taza_free'/113, l='ServerLevel[world]', x=-3532.48, y=60.50, z=4280.06]
+[13Sep2025 00:10:04.864] [Server thread/DEBUG] [pointblank/]: 4864 handling client fire request
+[13Sep2025 00:10:04.864] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 111741666 to 13
+[13Sep2025 00:10:04.864] [Server thread/DEBUG] [pointblank/]: 4864 - obtained hit result in 0ms
+[13Sep2025 00:10:04.865] [Server thread/DEBUG] [pointblank/]: 4865 obtained hit results
+[13Sep2025 00:10:04.865] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@12ba626f
+[13Sep2025 00:10:04.865] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Taza_free'/113, l='ServerLevel[world]', x=-3532.48, y=60.50, z=4280.06] sends hit scan notification to ServerPlayer['VadniesHael'/5841, l='ServerLevel[world]', x=-3532.30, y=60.00, z=4274.55]
+[13Sep2025 00:10:04.865] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Taza_free'/113, l='ServerLevel[world]', x=-3532.48, y=60.50, z=4280.06] sends hit scan notification to ServerPlayer['Taza_free'/113, l='ServerLevel[world]', x=-3532.48, y=60.50, z=4280.06]
+[13Sep2025 00:10:05.014] [Server thread/DEBUG] [pointblank/]: 5014 handling client fire request
+[13Sep2025 00:10:05.014] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 111741666 to 12
+[13Sep2025 00:10:05.014] [Server thread/DEBUG] [pointblank/]: 5014 - obtained hit result in 0ms
+[13Sep2025 00:10:05.014] [Server thread/DEBUG] [pointblank/]: 5014 obtained hit results
+[13Sep2025 00:10:05.014] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@22007571
+[13Sep2025 00:10:05.014] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Taza_free'/113, l='ServerLevel[world]', x=-3532.48, y=60.50, z=4280.06] sends hit scan notification to ServerPlayer['VadniesHael'/5841, l='ServerLevel[world]', x=-3532.30, y=60.00, z=4274.55]
+[13Sep2025 00:10:05.014] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Taza_free'/113, l='ServerLevel[world]', x=-3532.48, y=60.50, z=4280.06] sends hit scan notification to ServerPlayer['Taza_free'/113, l='ServerLevel[world]', x=-3532.48, y=60.50, z=4280.06]
+[13Sep2025 00:10:05.164] [Server thread/DEBUG] [pointblank/]: 5164 handling client fire request
+[13Sep2025 00:10:05.164] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 111741666 to 11
+[13Sep2025 00:10:05.164] [Server thread/DEBUG] [pointblank/]: 5164 - obtained hit result in 0ms
+[13Sep2025 00:10:05.164] [Server thread/DEBUG] [pointblank/]: 5164 obtained hit results
+[13Sep2025 00:10:05.164] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3ecb3645
+[13Sep2025 00:10:05.164] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Taza_free'/113, l='ServerLevel[world]', x=-3532.48, y=60.50, z=4280.06] sends hit scan notification to ServerPlayer['VadniesHael'/5841, l='ServerLevel[world]', x=-3532.30, y=60.00, z=4274.55]
+[13Sep2025 00:10:05.164] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Taza_free'/113, l='ServerLevel[world]', x=-3532.48, y=60.50, z=4280.06] sends hit scan notification to ServerPlayer['Taza_free'/113, l='ServerLevel[world]', x=-3532.48, y=60.50, z=4280.06]
+[13Sep2025 00:10:05.268] [Server thread/DEBUG] [pointblank/]: 5268 handling client fire request
+[13Sep2025 00:10:05.268] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 111741666 to 10
+[13Sep2025 00:10:05.268] [Server thread/DEBUG] [pointblank/]: 5268 - obtained hit result in 0ms
+[13Sep2025 00:10:05.268] [Server thread/DEBUG] [pointblank/]: 5268 obtained hit results
+[13Sep2025 00:10:05.268] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@78414570
+[13Sep2025 00:10:05.268] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Taza_free'/113, l='ServerLevel[world]', x=-3532.48, y=60.50, z=4280.06] sends hit scan notification to ServerPlayer['VadniesHael'/5841, l='ServerLevel[world]', x=-3532.30, y=60.00, z=4274.55]
+[13Sep2025 00:10:05.268] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Taza_free'/113, l='ServerLevel[world]', x=-3532.48, y=60.50, z=4280.06] sends hit scan notification to ServerPlayer['Taza_free'/113, l='ServerLevel[world]', x=-3532.48, y=60.50, z=4280.06]
+[13Sep2025 00:10:05.414] [Server thread/DEBUG] [pointblank/]: 5414 handling client fire request
+[13Sep2025 00:10:05.414] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 111741666 to 9
+[13Sep2025 00:10:05.414] [Server thread/DEBUG] [pointblank/]: 5414 - obtained hit result in 0ms
+[13Sep2025 00:10:05.414] [Server thread/DEBUG] [pointblank/]: 5414 obtained hit results
+[13Sep2025 00:10:05.414] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@26f80d4d
+[13Sep2025 00:10:05.415] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Taza_free'/113, l='ServerLevel[world]', x=-3532.48, y=60.50, z=4280.06] sends hit scan notification to ServerPlayer['VadniesHael'/5841, l='ServerLevel[world]', x=-3532.30, y=60.00, z=4274.55]
+[13Sep2025 00:10:05.415] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Taza_free'/113, l='ServerLevel[world]', x=-3532.48, y=60.50, z=4280.06] sends hit scan notification to ServerPlayer['Taza_free'/113, l='ServerLevel[world]', x=-3532.48, y=60.50, z=4280.06]
+[13Sep2025 00:10:05.566] [Server thread/DEBUG] [pointblank/]: 5566 handling client fire request
+[13Sep2025 00:10:05.566] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 111741666 to 8
+[13Sep2025 00:10:05.566] [Server thread/DEBUG] [pointblank/]: 5566 - obtained hit result in 0ms
+[13Sep2025 00:10:05.566] [Server thread/DEBUG] [pointblank/]: 5566 obtained hit results
+[13Sep2025 00:10:05.566] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@765b2f02
+[13Sep2025 00:10:05.566] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Taza_free'/113, l='ServerLevel[world]', x=-3532.75, y=60.50, z=4279.72] sends hit scan notification to ServerPlayer['VadniesHael'/5841, l='ServerLevel[world]', x=-3532.30, y=60.00, z=4274.55]
+[13Sep2025 00:10:05.566] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Taza_free'/113, l='ServerLevel[world]', x=-3532.75, y=60.50, z=4279.72] sends hit scan notification to ServerPlayer['Taza_free'/113, l='ServerLevel[world]', x=-3532.75, y=60.50, z=4279.72]
+[13Sep2025 00:10:05.817] [Server thread/DEBUG] [pointblank/]: 5817 handling client fire request
+[13Sep2025 00:10:05.817] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 111741666 to 7
+[13Sep2025 00:10:05.817] [Server thread/DEBUG] [pointblank/]: 5817 - obtained hit result in 0ms
+[13Sep2025 00:10:05.817] [Server thread/DEBUG] [pointblank/]: 5817 obtained hit results
+[13Sep2025 00:10:05.817] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@587a5e29
+[13Sep2025 00:10:05.817] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Taza_free'/113, l='ServerLevel[world]', x=-3533.25, y=60.00, z=4279.08] sends hit scan notification to ServerPlayer['VadniesHael'/5841, l='ServerLevel[world]', x=-3532.30, y=60.00, z=4274.55]
+[13Sep2025 00:10:05.818] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Taza_free'/113, l='ServerLevel[world]', x=-3533.25, y=60.00, z=4279.08] sends hit scan notification to ServerPlayer['Taza_free'/113, l='ServerLevel[world]', x=-3533.25, y=60.00, z=4279.08]
+[13Sep2025 00:10:05.966] [Server thread/DEBUG] [pointblank/]: 5966 handling client fire request
+[13Sep2025 00:10:05.966] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 111741666 to 6
+[13Sep2025 00:10:05.966] [Server thread/DEBUG] [pointblank/]: 5966 - obtained hit result in 0ms
+[13Sep2025 00:10:05.966] [Server thread/DEBUG] [pointblank/]: 5966 obtained hit results
+[13Sep2025 00:10:05.966] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5132a7f4
+[13Sep2025 00:10:05.966] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Taza_free'/113, l='ServerLevel[world]', x=-3533.67, y=60.00, z=4278.55] sends hit scan notification to ServerPlayer['VadniesHael'/5841, l='ServerLevel[world]', x=-3532.30, y=60.00, z=4274.55]
+[13Sep2025 00:10:05.966] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Taza_free'/113, l='ServerLevel[world]', x=-3533.67, y=60.00, z=4278.55] sends hit scan notification to ServerPlayer['Taza_free'/113, l='ServerLevel[world]', x=-3533.67, y=60.00, z=4278.55]
+[13Sep2025 00:10:07.118] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 111741666 to 17
+[13Sep2025 00:10:48.295] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ghostly Pickaxe'/1043327, l='ServerLevel[world]', x=-3538.75, y=60.00, z=4271.63, removed=DISCARDED]
+[13Sep2025 00:10:48.297] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ghostly Pickaxe'/1043327, l='ServerLevel[world]', x=-3538.75, y=60.00, z=4271.63, removed=DISCARDED]
+[13Sep2025 00:12:04.226] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.air) [respectsCutoff: false]
+[13Sep2025 00:12:04.415] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.air) [respectsCutoff: false]
+[13Sep2025 00:12:12.553] [IO-Worker-153/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-160
+[13Sep2025 00:13:48.492] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taza_free lost connection: Disconnected
+[13Sep2025 00:13:48.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taza_free left the game
+[13Sep2025 00:13:48.495] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Taza_free
+[13Sep2025 00:13:48.496] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Taza_free
+[13Sep2025 00:14:20.493] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VadniesHael lost connection: Disconnected
+[13Sep2025 00:14:20.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael left the game
+[13Sep2025 00:14:20.494] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of VadniesHael
+[13Sep2025 00:14:20.494] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client VadniesHael
+[13Sep2025 00:14:27.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Sep2025 00:14:27.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Sep2025 00:14:27.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Sep2025 00:14:27.105] [IO-Worker-153/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-161
+[13Sep2025 00:14:27.121] [IO-Worker-153/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-162
+[13Sep2025 00:14:27.151] [IO-Worker-161/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-163
+[13Sep2025 00:14:27.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13Sep2025 00:14:28.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_deeper_void:void_dimension
+[13Sep2025 00:14:28.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[13Sep2025 00:14:28.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13Sep2025 00:14:28.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_deep_void:deep_void
+[13Sep2025 00:14:28.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:processor_condition_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:condition
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:blending_function
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:placement_condition_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:villager_trades_item_listing
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: fallingtrees:tree_registry
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:modifier_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:modifier_predicate_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[13Sep2025 00:14:28.680] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[13Sep2025 00:14:28.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Sep2025 00:14:28.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Sep2025 00:14:28.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Sep2025 00:14:28.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (void_dimension): All chunks are saved
+[13Sep2025 00:14:28.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[13Sep2025 00:14:28.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Sep2025 00:14:28.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (deep_void): All chunks are saved
+[13Sep2025 00:14:28.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Sep2025 00:14:28.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13Sep2025 00:14:28.740] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[13Sep2025 00:14:28.740] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[13Sep2025 00:14:29.031] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for the_deeper_void:void_dimension
+[13Sep2025 00:14:29.031] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for the_deeper_void:void_dimension
+[13Sep2025 00:14:29.031] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for lostcities:lostcity
+[13Sep2025 00:14:29.031] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for lostcities:lostcity
+[13Sep2025 00:14:29.032] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[13Sep2025 00:14:29.032] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[13Sep2025 00:14:29.032] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for the_deep_void:deep_void
+[13Sep2025 00:14:29.032] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for the_deep_void:deep_void
+[13Sep2025 00:14:29.032] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[13Sep2025 00:14:29.032] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[13Sep2025 00:14:29.033] [Worker-Main-11/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-11 shutdown
+[13Sep2025 00:14:29.033] [Worker-Main-20/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-20 shutdown
+[13Sep2025 00:14:29.033] [Worker-Main-6/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-6 shutdown
+[13Sep2025 00:14:29.033] [Worker-Main-22/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-22 shutdown
+[13Sep2025 00:14:29.034] [Worker-Main-12/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-12 shutdown
+[13Sep2025 00:14:29.034] [Worker-Main-3/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-3 shutdown
+[13Sep2025 00:14:29.034] [Worker-Main-17/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-17 shutdown
+[13Sep2025 00:14:29.034] [Worker-Main-16/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-16 shutdown
+[13Sep2025 00:14:29.034] [Worker-Main-13/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-13 shutdown
+[13Sep2025 00:14:29.034] [Worker-Main-9/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-9 shutdown
+[13Sep2025 00:14:29.034] [Worker-Main-23/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-23 shutdown
+[13Sep2025 00:14:29.035] [Worker-Main-19/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-19 shutdown
+[13Sep2025 00:14:29.035] [Worker-Main-21/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-21 shutdown
+[13Sep2025 00:14:29.035] [Worker-Main-8/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-8 shutdown
+[13Sep2025 00:14:29.035] [Worker-Main-7/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-7 shutdown
+[13Sep2025 00:14:29.035] [Worker-Main-10/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-10 shutdown
+[13Sep2025 00:14:29.035] [Worker-Main-4/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-4 shutdown
+[13Sep2025 00:14:29.035] [Worker-Main-5/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-5 shutdown
+[13Sep2025 00:14:29.035] [Worker-Main-14/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-14 shutdown
+[13Sep2025 00:14:29.036] [Worker-Main-15/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-15 shutdown
+[13Sep2025 00:14:29.036] [Worker-Main-24/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-24 shutdown
+[13Sep2025 00:14:29.033] [Worker-Main-2/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-2 shutdown
+[13Sep2025 00:14:29.033] [Worker-Main-18/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-18 shutdown
+[13Sep2025 00:14:29.039] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[13Sep2025 00:14:29.041] [Server thread/INFO] [Framework/]: Unloading server configs...
+[13Sep2025 00:14:29.042] [Server thread/DEBUG] [Framework/]: Stopped watching config: /workspaces/zombicitoC/servidor_minecraft/config/refurbished_furniture.server.toml
+[13Sep2025 00:14:29.042] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[13Sep2025 00:14:29.045] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[13Sep2025 00:14:29.045] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[13Sep2025 00:14:29.046] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
