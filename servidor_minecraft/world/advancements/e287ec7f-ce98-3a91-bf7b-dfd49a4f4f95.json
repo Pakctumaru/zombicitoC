@@ -4048,285 +4048,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/black_kitchen_sink": {
-    "criteria": {
-      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/lime_kitchen_sink": {
-    "criteria": {
-      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/travertin_brick_slab": {
-    "criteria": {
-      "has_travertin_bricks": "2025-09-12 22:29:45 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/kitchen_hood": {
-    "criteria": {
-      "has_kitchen_hood": "2025-09-12 21:31:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite": {
-    "criteria": {
-      "has_diorite": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_sword": {
-    "criteria": {
-      "has_diamond": "2025-09-12 21:30:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jukebox": {
-    "criteria": {
-      "has_diamond": "2025-09-12 21:30:24 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/red_brick_wall": {
-    "criteria": {
-      "has_red_brick": "2025-09-12 22:29:02 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/white_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/diorite_layer": {
-    "criteria": {
-      "has_block": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blackstone_wall": {
-    "criteria": {
-      "has_blackstone": "2025-09-12 21:20:09 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/white_kitchen_sink": {
-    "criteria": {
-      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_stove": {
-    "criteria": {
-      "has_light_stove": "2025-09-12 23:50:14 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
-    "criteria": {
-      "has_wheat": "2025-09-12 21:51:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_pickaxe": {
-    "criteria": {
-      "has_diamond": "2025-09-12 21:30:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-09-12 21:20:09 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-09-12 21:08:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/candle": {
-    "criteria": {
-      "has_string": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/larch_fence_gate": {
-    "criteria": {
-      "has_larch_planks": "2025-09-12 22:23:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_hoe": {
-    "criteria": {
-      "has_diamond": "2025-09-12 21:30:24 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/transportation/benchcart": {
-    "criteria": {
-      "hasitem": "2025-09-12 22:08:12 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/larch_fence": {
-    "criteria": {
-      "has_larch_planks": "2025-09-12 22:23:08 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/fir_hanging_sign": {
-    "criteria": {
-      "has_fir_planks": "2025-09-12 22:29:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/mangrove_dark_ceiling_fan": {
-    "criteria": {
-      "has_ceiling_fan": "2025-09-12 23:52:20 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-09-12 21:20:13 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blackstone_stairs": {
-    "criteria": {
-      "has_blackstone": "2025-09-12 21:20:09 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_dark_ceiling_fan": {
-    "criteria": {
-      "has_mangrove_light_ceiling_fan": "2025-09-12 23:52:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-09-12 21:20:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/hopper_minecart": {
-    "criteria": {
-      "has_minecart": "2025-09-12 22:08:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_ham": {
-    "criteria": {
-      "ham": "2025-09-12 21:51:43 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/larch_boat": {
-    "criteria": {
-      "has_larch_planks": "2025-09-12 22:23:08 +0000"
     },
     "done": true
   },
@@ -4336,423 +4060,9 @@
     },
     "done": true
   },
-  "bloomingnature:recipes/fir_fence": {
-    "criteria": {
-      "has_fir_planks": "2025-09-12 22:29:49 +0000"
-    },
-    "done": true
-  },
-  "projectvibrantjourneys:recipes/misc/brown_dye_from_bark_mushroom": {
-    "criteria": {
-      "has_bark_mushroom": "2025-09-12 21:24:02 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/fir_fence_gate": {
-    "criteria": {
-      "has_fir_planks": "2025-09-12 22:29:49 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/fir_stairs": {
-    "criteria": {
-      "has_fir_planks": "2025-09-12 22:29:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-09-12 21:20:09 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/red_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/bamboo_pallet": {
-    "criteria": {
-      "has_planks": "2025-09-12 23:42:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2025-09-12 21:09:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-09-12 21:20:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diamond_block": {
-    "criteria": {
-      "has_diamond": "2025-09-12 21:30:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-09-12 21:20:22 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/pie_crust": {
-    "criteria": {
-      "has_wheat": "2025-09-12 21:51:45 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-09-12 21:20:13 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_sink": {
-    "criteria": {
-      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_sink": {
-    "criteria": {
-      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-09-12 22:12:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/rail": {
-    "criteria": {
-      "has_minecart": "2025-09-12 22:08:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/rope": {
-    "criteria": {
-      "has_string": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/smoked_ham": {
-    "criteria": {
-      "has_ham": "2025-09-12 21:51:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-09-12 21:20:13 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/wood_cup": {
-    "criteria": {
-      "has_wood_cup": "2025-09-12 22:28:34 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_sink": {
-    "criteria": {
-      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-09-12 21:08:16 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-09-12 21:09:55 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/fir_trapdoor": {
-    "criteria": {
-      "has_fir_planks": "2025-09-12 22:29:49 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
-    "criteria": {
-      "has_wheat": "2025-09-12 21:51:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_slab": {
-    "criteria": {
-      "has_diorite": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2025-09-12 21:17:05 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/red_kitchen_sink": {
-    "criteria": {
-      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/larch_button": {
-    "criteria": {
-      "has_larch_planks": "2025-09-12 22:23:08 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/purple_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/fir_boat": {
-    "criteria": {
-      "has_fir_planks": "2025-09-12 22:29:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-09-12 22:28:34 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/travertin_brick_stairs": {
-    "criteria": {
-      "has_travertin_bricks": "2025-09-12 22:29:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-09-12 21:51:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-09-12 21:20:13 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_ochrum_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall": {
-    "criteria": {
-      "has_diorite": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_sink": {
-    "criteria": {
-      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_sink": {
-    "criteria": {
-      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-09-12 21:20:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_boots": {
-    "criteria": {
-      "has_diamond": "2025-09-12 21:30:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-09-12 22:12:02 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/chest_minecart": {
-    "criteria": {
-      "has_minecart": "2025-09-12 22:08:12 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
-    "criteria": {
-      "has_andesite": "2025-09-12 21:20:22 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/kitchen_hood_pipe": {
-    "criteria": {
-      "has_kitchen_hood_pipe": "2025-09-12 21:31:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
     },
     "done": true
   },
@@ -4762,15 +4072,21 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+  "refurbished_furniture:recipes/baking/baked_potato": {
     "criteria": {
-      "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
+      "has_ingredient": "2025-09-12 21:08:16 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+  "minecraft:recipes/food/baked_potato": {
     "criteria": {
-      "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
+      "has_potato": "2025-09-12 21:08:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-09-12 21:09:26 +0000"
     },
     "done": true
   },
@@ -4780,99 +4096,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-09-12 21:20:13 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-09-12 21:20:09 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-09-12 21:20:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
-    "criteria": {
-      "has_bamboo": "2025-09-12 23:42:23 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/transportation/jukeboxcart": {
-    "criteria": {
-      "hasitem": "2025-09-12 22:08:12 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/blackstone_layer": {
-    "criteria": {
-      "has_block": "2025-09-12 21:20:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_block": {
-    "criteria": {
-      "has_bamboo": "2025-09-12 23:42:23 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/white_dye_from_mountain_laurel": {
-    "criteria": {
-      "has_mountain_laurel": "2025-09-12 22:43:10 +0000"
-    },
-    "done": true
-  },
   "decorative_blocks:recipes/building_blocks/acacia_palisade": {
     "criteria": {
       "has_log": "2025-09-12 21:09:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs": {
-    "criteria": {
-      "has_diorite": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
     },
     "done": true
   },
@@ -4882,327 +4108,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-09-12 21:20:09 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
-    "criteria": {
-      "has_backpack": "2025-09-12 22:03:57 +0000"
-    },
-    "done": true
-  },
   "bbb:recipes/acacia_pallet": {
     "criteria": {
       "has_planks": "2025-09-12 21:09:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-09-12 21:20:13 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/fir_slab": {
-    "criteria": {
-      "has_fir_planks": "2025-09-12 22:29:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_chestplate": {
-    "criteria": {
-      "has_diamond": "2025-09-12 21:30:24 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/blackstone_urn": {
-    "criteria": {
-      "has_block": "2025-09-12 21:20:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
-    "criteria": {
-      "has_andesite": "2025-09-12 21:20:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-09-12 21:20:13 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/larch_window": {
-    "criteria": {
-      "has_larch_planks": "2025-09-12 22:23:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stone_bricks": "2025-09-12 21:26:20 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/fir_chest_boat": {
-    "criteria": {
-      "has_fir_planks": "2025-09-12 22:29:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-09-12 21:20:13 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorations/brazier": {
-    "criteria": {
-      "has_bar": "2025-09-12 21:31:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/ochrum_pillar_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-09-12 21:20:09 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_sink": {
-    "criteria": {
-      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/baking/baked_potato": {
-    "criteria": {
-      "has_ingredient": "2025-09-12 21:08:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-09-12 21:51:45 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-09-12 21:20:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-09-12 21:51:45 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/blackstone_pillar_trim": {
-    "criteria": {
-      "has_blackstone_pillar_trim": "2025-09-12 21:20:09 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_hay_block": "2025-09-12 21:23:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-09-12 22:12:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2025-09-12 21:30:24 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_sink": {
-    "criteria": {
-      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/fir_window": {
-    "criteria": {
-      "has_fir_planks": "2025-09-12 22:29:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2025-09-12 22:27:47 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/blue_dye_from_bluebell": {
-    "criteria": {
-      "has_bluebell": "2025-09-13 00:11:05 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/red_brick_slab": {
-    "criteria": {
-      "has_red_brick": "2025-09-12 22:29:02 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-09-12 21:20:13 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/andesite_layer": {
-    "criteria": {
-      "has_block": "2025-09-12 21:20:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-09-12 21:20:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2025-09-12 21:26:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-09-12 21:20:22 +0000"
-    },
-    "done": true
-  },
-  "lootr:25loot": {
-    "criteria": {
-      "loot_stat": "2025-09-12 21:44:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_helmet": {
-    "criteria": {
-      "has_diamond": "2025-09-12 21:30:24 +0000"
-    },
-    "done": true
-  },
-  "sliceanddice:recipes/misc/slicer": {
-    "criteria": {
-      "has_tool": "2025-09-12 21:09:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite": {
-    "criteria": {
-      "has_stone": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blackstone_slab": {
-    "criteria": {
-      "has_blackstone": "2025-09-12 21:20:09 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/black_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
     },
     "done": true
   },
@@ -5212,123 +4120,243 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/larch_chest_boat": {
-    "criteria": {
-      "has_larch_planks": "2025-09-12 22:23:08 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
   "bbb:recipes/acacia_wall": {
     "criteria": {
       "has_logs": "2025-09-12 21:09:26 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/diorite_corner_trim": {
+  "bbb:recipes/acacia_frame": {
     "criteria": {
-      "has_diorite_corner_trim": "2025-09-12 21:27:06 +0000"
+      "has_planks": "2025-09-12 21:09:26 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/andesite_pillar_trim": {
+  "sliceanddice:recipes/misc/slicer": {
     "criteria": {
-      "has_andesite_pillar_trim": "2025-09-12 21:20:22 +0000"
+      "has_tool": "2025-09-12 21:09:53 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+  "minecraft:story/iron_tools": {
     "criteria": {
-      "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
+      "iron_pickaxe": "2025-09-12 21:09:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
-      "has_diorite": "2025-09-12 21:27:06 +0000"
+      "has_gold_backpack": "2025-09-12 21:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-09-12 21:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-09-12 21:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-09-12 21:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-09-12 21:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-09-12 21:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-09-12 21:20:09 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/blackstone_layer": {
+    "criteria": {
+      "has_block": "2025-09-12 21:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-09-12 21:20:09 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/blackstone_urn": {
+    "criteria": {
+      "has_block": "2025-09-12 21:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-09-12 21:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-09-12 21:20:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_pillar_trim": {
+    "criteria": {
+      "has_blackstone_pillar_trim": "2025-09-12 21:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-09-12 21:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-09-12 21:20:09 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/blackstone_moulding": {
+    "criteria": {
+      "has_block": "2025-09-12 21:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-09-12 21:20:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_corner_trim": {
+    "criteria": {
+      "has_blackstone_corner_trim": "2025-09-12 21:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-09-12 21:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-09-12 21:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-09-12 21:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-09-12 21:20:09 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/blackstone_fence": {
+    "criteria": {
+      "has_block": "2025-09-12 21:20:09 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/blackstone_column": {
+    "criteria": {
+      "has_block": "2025-09-12 21:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-12 21:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-12 21:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-12 21:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-12 21:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-12 21:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-12 21:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-12 21:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-12 21:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-12 21:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-12 21:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-12 21:20:13 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-09-12 21:20:13 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_sink": {
-    "criteria": {
-      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2025-09-12 21:30:24 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/larch_stairs": {
-    "criteria": {
-      "has_larch_planks": "2025-09-12 22:23:08 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/fir_button": {
-    "criteria": {
-      "has_fir_planks": "2025-09-12 22:29:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/green_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/larch_sign": {
-    "criteria": {
-      "has_larch_planks": "2025-09-12 22:23:08 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/diamond_knife": {
-    "criteria": {
-      "has_diamond": "2025-09-12 21:30:24 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
     },
     "done": true
   },
@@ -5344,60 +4372,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_leggings": {
-    "criteria": {
-      "has_diamond": "2025-09-12 21:30:24 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/acacia_frame": {
-    "criteria": {
-      "has_planks": "2025-09-12 21:09:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/blackstone_moulding": {
-    "criteria": {
-      "has_block": "2025-09-12 21:20:09 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/controller_rail": {
-    "criteria": {
-      "has_item": "2025-09-12 22:27:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-09-12 21:20:09 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/larch_door": {
-    "criteria": {
-      "has_larch_planks": "2025-09-12 22:23:08 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_sink": {
-    "criteria": {
-      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-09-12 21:20:13 +0000"
@@ -5410,33 +4384,141 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_storage_cabinet": {
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
-      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
+      "has_gravel": "2025-09-12 21:20:13 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/diorite_pillar_trim": {
+  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
-      "has_diorite_pillar_trim": "2025-09-12 21:27:06 +0000"
+      "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato": {
+  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
-      "has_potato": "2025-09-12 21:08:16 +0000"
+      "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/blackstone_corner_trim": {
+  "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
-      "has_blackstone_corner_trim": "2025-09-12 21:20:09 +0000"
+      "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
     },
     "done": true
   },
-  "bloomingnature:recipes/larch_trapdoor": {
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
-      "has_larch_planks": "2025-09-12 22:23:08 +0000"
+      "has_andesite": "2025-09-12 21:20:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-12 21:20:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
+    "criteria": {
+      "has_andesite": "2025-09-12 21:20:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-09-12 21:20:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/andesite_layer": {
+    "criteria": {
+      "has_block": "2025-09-12 21:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-12 21:20:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/andesite_pillar_trim": {
+    "criteria": {
+      "has_andesite_pillar_trim": "2025-09-12 21:20:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
     },
     "done": true
   },
@@ -5449,24 +4531,6 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-09-12 21:20:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2025-09-12 21:26:20 +0000"
     },
     "done": true
   },
@@ -5488,108 +4552,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/wheat_dough_from_water": {
-    "criteria": {
-      "has_wheat": "2025-09-12 21:51:45 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/fir_sign": {
-    "criteria": {
-      "has_fir_planks": "2025-09-12 22:29:49 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/ochrum_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
-    "criteria": {
-      "has_diorite": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/larch_slab": {
-    "criteria": {
-      "has_larch_planks": "2025-09-12 22:23:08 +0000"
-    },
-    "done": true
-  },
-  "dummmmmmy:recipes/dummy_crafting": {
-    "criteria": {
-      "has_hay_block": "2025-09-12 21:23:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2025-09-12 22:08:12 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/door_mat": {
-    "criteria": {
-      "has_wheat": "2025-09-12 21:51:45 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/rocky_dirt": {
-    "criteria": {
-      "has_dirt": "2025-09-12 21:25:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-09-12 21:20:09 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/green_kitchen_sink": {
-    "criteria": {
-      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_ochrum_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-09-12 21:20:09 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/travertin_brick_wall": {
-    "criteria": {
-      "has_travertin_bricks": "2025-09-12 22:29:45 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-09-12 21:20:22 +0000"
@@ -5599,60 +4561,6 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-09-12 21:20:22 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/bamboo_frame": {
-    "criteria": {
-      "has_planks": "2025-09-12 23:42:23 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/larch_hanging_sign": {
-    "criteria": {
-      "has_larch_planks": "2025-09-12 22:23:08 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/dark_stove": {
-    "criteria": {
-      "has_stove": "2025-09-12 23:50:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_ochrum_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2025-09-12 22:27:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-09-12 21:20:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/furnace_minecart": {
-    "criteria": {
-      "has_minecart": "2025-09-12 22:08:12 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_sink": {
-    "criteria": {
-      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone": {
-    "criteria": {
-      "has_blackstone": "2025-09-12 21:20:09 +0000"
     },
     "done": true
   },
@@ -5668,84 +4576,6 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/blackstone_fence": {
-    "criteria": {
-      "has_block": "2025-09-12 21:20:09 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
-    "criteria": {
-      "has_backpack": "2025-09-12 22:03:57 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/red_brick_stairs": {
-    "criteria": {
-      "has_red_brick": "2025-09-12 22:29:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
-    "criteria": {
-      "has_string": "2025-09-12 21:27:06 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/building_blocks/dean_bricks": {
-    "criteria": {
-      "has_item": "2025-09-12 22:09:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-09-12 21:20:13 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorations/soul_brazier": {
-    "criteria": {
-      "has_bar": "2025-09-12 21:31:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-09-12 21:20:22 +0000"
@@ -5758,16 +4588,15 @@
     },
     "done": true
   },
-  "immersive_weathering:immersive_weathering/dirts": {
+  "minecraft:recipes/redstone/target": {
     "criteria": {
-      "grass": "2025-09-12 23:12:47 +0000",
-      "dirt": "2025-09-12 21:25:06 +0000"
+      "has_hay_block": "2025-09-12 21:23:51 +0000"
     },
-    "done": false
+    "done": true
   },
-  "bbb:recipes/blackstone_column": {
+  "dummmmmmy:recipes/dummy_crafting": {
     "criteria": {
-      "has_block": "2025-09-12 21:20:09 +0000"
+      "has_hay_block": "2025-09-12 21:23:51 +0000"
     },
     "done": true
   },
@@ -5777,33 +4606,280 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+  "projectvibrantjourneys:recipes/misc/brown_dye_from_bark_mushroom": {
+    "criteria": {
+      "has_bark_mushroom": "2025-09-12 21:24:02 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2025-09-12 21:25:06 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/dirts": {
+    "criteria": {
+      "grass": "2025-09-12 23:12:47 +0000",
+      "dirt": "2025-09-12 21:25:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-12 21:26:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-12 21:26:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-09-12 21:26:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-09-12 21:27:06 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/lime_kitchen_storage_cabinet": {
+  "bbb:recipes/diorite_layer": {
     "criteria": {
-      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
+      "has_block": "2025-09-12 21:27:06 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/wood_bowl": {
+  "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
-      "has_wood_bowl": "2025-09-12 22:28:34 +0000"
+      "has_string": "2025-09-12 21:27:06 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+  "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
-      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
+      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
     },
     "done": true
   },
-  "bloomingnature:recipes/fir_door": {
+  "minecraft:recipes/decorations/candle": {
     "criteria": {
-      "has_fir_planks": "2025-09-12 22:29:49 +0000"
+      "has_string": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/rope": {
+    "criteria": {
+      "has_string": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/diorite_corner_trim": {
+    "criteria": {
+      "has_diorite_corner_trim": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/diorite_pillar_trim": {
+    "criteria": {
+      "has_diorite_pillar_trim": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
+    "criteria": {
+      "has_diorite": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-09-12 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-12 21:27:06 +0000"
     },
     "done": true
   },
@@ -5813,15 +4889,585 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-09-12 21:30:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-09-12 21:30:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-09-12 21:30:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-09-12 21:30:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-09-12 21:30:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-09-12 21:30:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-09-12 21:30:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-09-12 21:30:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-09-12 21:30:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-09-12 21:30:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-09-12 21:30:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-09-12 21:30:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-09-12 21:30:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/scaffolding": {
+  "handcrafted:recipes/misc/kitchen_hood": {
     "criteria": {
-      "has_bamboo": "2025-09-12 23:42:23 +0000"
+      "has_kitchen_hood": "2025-09-12 21:31:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-09-12 21:31:21 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/brazier": {
+    "criteria": {
+      "has_bar": "2025-09-12 21:31:21 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_bar": "2025-09-12 21:31:21 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-09-12 21:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-09-12 21:51:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-09-12 21:51:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/smoked_ham": {
+    "criteria": {
+      "has_ham": "2025-09-12 21:51:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-09-12 21:51:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-09-12 21:51:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-09-12 21:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-09-12 21:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-09-12 21:51:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-09-12 21:51:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-09-12 21:51:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-09-12 22:03:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-09-12 22:03:57 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/transportation/benchcart": {
+    "criteria": {
+      "hasitem": "2025-09-12 22:08:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-09-12 22:08:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-09-12 22:08:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-09-12 22:08:12 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/transportation/jukeboxcart": {
+    "criteria": {
+      "hasitem": "2025-09-12 22:08:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-09-12 22:08:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-09-12 22:08:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ochrum_pillar_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/dean_bricks": {
+    "criteria": {
+      "has_item": "2025-09-12 22:09:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-09-12 22:09:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-09-12 22:12:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-09-12 22:12:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-09-12 22:12:02 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/larch_fence_gate": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:23:08 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/larch_fence": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:23:08 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/larch_boat": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:23:08 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/larch_button": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:23:08 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/larch_window": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:23:08 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/larch_chest_boat": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:23:08 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/larch_stairs": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:23:08 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/larch_sign": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:23:08 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/larch_door": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:23:08 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/larch_trapdoor": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:23:08 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/larch_slab": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:23:08 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/larch_hanging_sign": {
+    "criteria": {
+      "has_larch_planks": "2025-09-12 22:23:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/controller_rail": {
+    "criteria": {
+      "has_item": "2025-09-12 22:27:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-09-12 22:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-09-12 22:27:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-09-12 22:28:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-09-12 22:28:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-09-12 22:28:34 +0000"
     },
     "done": true
   },
@@ -5831,15 +5477,369 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/red_brick_wall": {
+    "criteria": {
+      "has_red_brick": "2025-09-12 22:29:02 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/red_brick_slab": {
+    "criteria": {
+      "has_red_brick": "2025-09-12 22:29:02 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/red_brick_stairs": {
+    "criteria": {
+      "has_red_brick": "2025-09-12 22:29:02 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/travertin_brick_slab": {
+    "criteria": {
+      "has_travertin_bricks": "2025-09-12 22:29:45 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/travertin_brick_stairs": {
+    "criteria": {
+      "has_travertin_bricks": "2025-09-12 22:29:45 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/travertin_brick_wall": {
+    "criteria": {
+      "has_travertin_bricks": "2025-09-12 22:29:45 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/fir_hanging_sign": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:29:49 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/fir_fence": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:29:49 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/fir_fence_gate": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:29:49 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/fir_stairs": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:29:49 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/fir_trapdoor": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:29:49 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/fir_boat": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:29:49 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/fir_slab": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:29:49 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/fir_chest_boat": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:29:49 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/fir_window": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:29:49 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/fir_button": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:29:49 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/fir_sign": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:29:49 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/fir_door": {
+    "criteria": {
+      "has_fir_planks": "2025-09-12 22:29:49 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/white_dye_from_mountain_laurel": {
+    "criteria": {
+      "has_mountain_laurel": "2025-09-12 22:43:10 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/bamboo_pallet": {
+    "criteria": {
+      "has_planks": "2025-09-12 23:42:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-09-12 23:42:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-09-12 23:42:23 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/bamboo_frame": {
+    "criteria": {
+      "has_planks": "2025-09-12 23:42:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-09-12 23:42:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_kitchen_sink": {
     "criteria": {
       "has_wooden_kitchen_sinks": "2025-09-12 23:49:24 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+  "refurbished_furniture:recipes/misc/constructing/white_kitchen_storage_cabinet": {
     "criteria": {
-      "has_stone_types_tuff": "2025-09-12 22:09:28 +0000"
+      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2025-09-12 23:50:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_stove": {
+    "criteria": {
+      "has_light_stove": "2025-09-12 23:50:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_stove": {
+    "criteria": {
+      "has_stove": "2025-09-12 23:50:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/mangrove_dark_ceiling_fan": {
+    "criteria": {
+      "has_ceiling_fan": "2025-09-12 23:52:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_dark_ceiling_fan": {
+    "criteria": {
+      "has_mangrove_light_ceiling_fan": "2025-09-12 23:52:20 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/blue_dye_from_bluebell": {
+    "criteria": {
+      "has_bluebell": "2025-09-13 00:11:05 +0000"
     },
     "done": true
   },
