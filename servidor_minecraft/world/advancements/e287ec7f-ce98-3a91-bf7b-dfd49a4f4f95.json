@@ -5857,9 +5857,16 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "wheat": "2025-09-13 04:18:10 +0000",
       "carrot": "2025-09-13 04:12:42 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-09-13 04:18:27 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
@@ -5873,6 +5880,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-09-13 04:18:27 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/quartz_pillar_trim": {
     "criteria": {
       "has_quartz_pillar_trim": "2025-09-13 03:52:22 +0000"
@@ -5882,6 +5895,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-09-13 03:52:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-09-13 04:18:43 +0000"
     },
     "done": true
   },
@@ -5918,6 +5937,18 @@
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-09-13 03:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-09-13 04:18:43 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/building_blocks/stick_from_twigs": {
+    "criteria": {
+      "has_twigs": "2025-09-13 04:21:26 +0000"
     },
     "done": true
   },
@@ -5990,6 +6021,18 @@
   "refurbished_furniture:recipes/freezing/ice": {
     "criteria": {
       "has_ingredient": "2025-09-13 04:07:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-09-13 04:18:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-09-13 04:18:27 +0000"
     },
     "done": true
   },

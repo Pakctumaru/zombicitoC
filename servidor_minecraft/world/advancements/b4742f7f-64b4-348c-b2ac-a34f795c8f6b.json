@@ -171,7 +171,8 @@
       "cooked_mutton": "2025-09-12 19:17:36 +0000",
       "bread": "2025-09-12 18:52:29 +0000",
       "golden_apple": "2025-09-13 03:43:15 +0000",
-      "rotten_flesh": "2025-09-12 18:47:26 +0000"
+      "rotten_flesh": "2025-09-12 18:47:26 +0000",
+      "carrot": "2025-09-13 04:26:09 +0000"
     },
     "done": false
   },
@@ -4931,6 +4932,12 @@
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-09-13 04:14:37 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/building_blocks/stick_from_twigs": {
+    "criteria": {
+      "has_twigs": "2025-09-13 04:18:49 +0000"
     },
     "done": true
   },
