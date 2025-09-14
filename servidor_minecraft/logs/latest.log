@@ -1546,3 +1546,13 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [14Sep2025 19:28:16.924] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taza_free lost connection: Disconnected
 [14Sep2025 19:28:16.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taza_free left the game
 [14Sep2025 19:28:16.925] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Taza_free
+[14Sep2025 19:42:15.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: daniel16 was slain by Zombie
+[14Sep2025 19:45:16.225] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Sep2025 19:45:16.232] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/789375, l='ServerLevel[world]', x=-454.32, y=80.00, z=563.33, removed=DISCARDED]
+[14Sep2025 19:45:16.232] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/972782, l='ServerLevel[world]', x=-455.30, y=80.27, z=562.97, removed=DISCARDED]
+[14Sep2025 19:45:16.232] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/979702, l='ServerLevel[world]', x=-456.41, y=80.00, z=562.30, removed=DISCARDED]
+[14Sep2025 19:45:16.232] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/999981, l='ServerLevel[world]', x=-453.49, y=80.12, z=562.62, removed=DISCARDED]
+[14Sep2025 19:45:16.233] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/1005516, l='ServerLevel[world]', x=-454.82, y=81.00, z=565.49, removed=DISCARDED]
+[14Sep2025 19:45:16.238] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/888776, l='ServerLevel[world]', x=-455.22, y=86.79, z=554.33, removed=DISCARDED]
+[14Sep2025 19:45:16.238] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/968859, l='ServerLevel[world]', x=-452.49, y=81.00, z=556.30, removed=DISCARDED]
+[14Sep2025 19:45:16.249] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/1046003, l='ServerLevel[world]', x=-438.30, y=74.00, z=611.36, removed=DISCARDED]
