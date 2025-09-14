@@ -1301,3 +1301,69 @@ java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/cli
 [14Sep2025 05:58:15.373] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4007ms or 80 ticks behind
 [14Sep2025 05:58:35.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5046ms or 100 ticks behind
 [14Sep2025 05:58:38.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Taza_free to daniel16
+[14Sep2025 05:58:53.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3047ms or 60 ticks behind
+[14Sep2025 05:59:15.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6933ms or 138 ticks behind
+[14Sep2025 05:59:35.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5392ms or 107 ticks behind
+[14Sep2025 05:59:52.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2351ms or 47 ticks behind
+[14Sep2025 05:59:57.513] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/799472, l='ServerLevel[world]', x=-3498.64, y=66.77, z=4295.10, removed=DISCARDED]
+[14Sep2025 05:59:57.682] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/798590, l='ServerLevel[world]', x=-3498.14, y=67.00, z=4294.01, removed=DISCARDED]
+[14Sep2025 06:00:02.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[14Sep2025 06:00:02.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: t/tp daniel16 Nooby/tp daniel16 Noobysupreme007<--[HERE]
+[14Sep2025 06:00:11.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3639ms or 72 ticks behind
+[14Sep2025 06:00:29.182] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2616ms or 52 ticks behind
+[14Sep2025 06:00:46.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2736ms or 54 ticks behind
+[14Sep2025 06:00:51.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported daniel16 to NoobySupreme007
+[14Sep2025 06:01:30.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: daniel16 was slain by NoobySupreme007
+[14Sep2025 06:01:32.197] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Sep2025 06:01:32.234] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/798590, l='ServerLevel[world]', x=-3498.14, y=67.00, z=4294.01, removed=DISCARDED]
+[14Sep2025 06:01:32.234] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/799472, l='ServerLevel[world]', x=-3498.64, y=66.77, z=4295.10, removed=DISCARDED]
+[14Sep2025 06:01:51.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported daniel16 to NoobySupreme007
+[14Sep2025 06:01:54.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported daniel16 to NoobySupreme007
+[14Sep2025 06:01:55.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported daniel16 to NoobySupreme007
+[14Sep2025 06:01:56.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported daniel16 to NoobySupreme007
+[14Sep2025 06:02:01.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported daniel16 to NoobySupreme007
+[14Sep2025 06:02:13.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobySupreme007 was slain by daniel16
+[14Sep2025 06:02:15.447] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Sep2025 06:02:16.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported daniel16 to NoobySupreme007
+[14Sep2025 06:04:21.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobySupreme007 has made the advancement [Stone Age]
+[14Sep2025 06:04:29.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobySupreme007 has made the advancement [Getting an Upgrade]
+[14Sep2025 06:07:35.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobySupreme007 was slain by Zombie
+[14Sep2025 06:07:36.599] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Sep2025 06:09:25.960] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/799472, l='ServerLevel[world]', x=-3498.64, y=66.77, z=4295.10, removed=DISCARDED]
+[14Sep2025 06:09:26.105] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/798590, l='ServerLevel[world]', x=-3498.14, y=67.00, z=4294.01, removed=DISCARDED]
+[14Sep2025 06:10:17.959] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taza_free lost connection: Disconnected
+[14Sep2025 06:10:17.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taza_free left the game
+[14Sep2025 06:10:17.960] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Taza_free
+[14Sep2025 06:10:57.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: daniel16 was doomed to fall by NoobySupreme007
+[14Sep2025 06:10:59.535] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Sep2025 06:11:19.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: daniel16 was doomed to fall by Zombie
+[14Sep2025 06:11:21.013] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Sep2025 06:11:34.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: daniel16 was doomed to fall by Zombie
+[14Sep2025 06:11:35.892] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Sep2025 06:11:50.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: daniel16 fell from a high place
+[14Sep2025 06:11:51.962] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Sep2025 06:12:21.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: daniel16 has made the advancement [Hot Stuff]
+[14Sep2025 06:14:44.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobySupreme007 was slain by Zombie
+[14Sep2025 06:14:45.650] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/1071773, l='ServerLevel[world]', x=179.88, y=-52.00, z=60.88, removed=DISCARDED]
+[14Sep2025 06:14:46.449] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Sep2025 06:14:46.486] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/1071773, l='ServerLevel[world]', x=179.88, y=-52.00, z=60.88, removed=DISCARDED]
+[14Sep2025 06:14:53.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobySupreme007 was slain by Zombie
+[14Sep2025 06:14:54.244] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Sep2025 06:14:54.284] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/1071773, l='ServerLevel[world]', x=179.88, y=-52.00, z=60.88, removed=DISCARDED]
+[14Sep2025 06:15:12.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobySupreme007 was slain by Zombie
+[14Sep2025 06:15:13.400] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/1073871, l='ServerLevel[world]', x=167.19, y=-53.00, z=106.98, removed=DISCARDED]
+[14Sep2025 06:15:13.887] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Sep2025 06:15:13.916] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/1073871, l='ServerLevel[world]', x=167.19, y=-53.00, z=106.98, removed=DISCARDED]
+[14Sep2025 06:15:13.919] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/1071773, l='ServerLevel[world]', x=179.88, y=-52.00, z=60.88, removed=DISCARDED]
+[14Sep2025 06:16:16.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobySupreme007 tried to swim in lava
+[14Sep2025 06:16:18.058] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Sep2025 06:16:18.093] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/1073871, l='ServerLevel[world]', x=167.19, y=-53.00, z=106.98, removed=DISCARDED]
+[14Sep2025 06:16:18.096] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/1071773, l='ServerLevel[world]', x=179.88, y=-52.00, z=60.88, removed=DISCARDED]
+[14Sep2025 06:18:15.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobySupreme007 was slain by Zombie
+[14Sep2025 06:18:16.934] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Sep2025 06:18:16.960] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/1073871, l='ServerLevel[world]', x=167.19, y=-53.00, z=106.98, removed=DISCARDED]
+[14Sep2025 06:18:16.962] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/1071773, l='ServerLevel[world]', x=179.88, y=-52.00, z=60.88, removed=DISCARDED]
+[14Sep2025 06:19:23.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobySupreme007 tried to swim in lava
+[14Sep2025 06:19:24.634] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Sep2025 06:19:24.666] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/1073871, l='ServerLevel[world]', x=167.19, y=-53.00, z=106.98, removed=DISCARDED]
+[14Sep2025 06:19:24.669] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/1071773, l='ServerLevel[world]', x=179.88, y=-52.00, z=60.88, removed=DISCARDED]
