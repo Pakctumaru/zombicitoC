@@ -102,6 +102,7 @@
       "minecraft:lukewarm_ocean": "2025-09-12 19:20:03 +0000",
       "minecraft:river": "2025-09-12 18:55:11 +0000",
       "minecraft:stony_shore": "2025-09-12 18:49:00 +0000",
+      "minecraft:snowy_taiga": "2025-09-14 18:32:08 +0000",
       "minecraft:cold_ocean": "2025-09-12 18:55:28 +0000",
       "minecraft:forest": "2025-09-12 18:58:26 +0000",
       "minecraft:deep_cold_ocean": "2025-09-12 18:56:58 +0000",
@@ -7284,6 +7285,24 @@
     },
     "done": true
   },
+  "railways:recipes/misc/crafting/link_and_pin": {
+    "criteria": {
+      "has_item": "2025-09-14 18:39:28 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-09-14 18:39:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-09-14 18:37:55 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/stone_brick_layer": {
     "criteria": {
       "has_block": "2025-09-14 18:13:27 +0000"
@@ -7302,6 +7321,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-09-14 18:37:55 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_hull": {
+    "criteria": {
+      "has_item": "2025-09-14 18:39:28 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/misc/industrial_iron_ingot_from_industrial_iron_block": {
+    "criteria": {
+      "has_industrial_iron_block": "2025-09-14 18:39:28 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:recipes/stone_bricks": {
     "criteria": {
       "has_copper_block": "2025-09-14 18:13:27 +0000"
@@ -7317,6 +7354,30 @@
   "bbb:recipes/stone_urn": {
     "criteria": {
       "has_block": "2025-09-14 18:13:27 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/small_buffer": {
+    "criteria": {
+      "has_item": "2025-09-14 18:39:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-09-14 18:37:55 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/transportation/conductor_vent_from_industrial_iron_block_stonecutting": {
+    "criteria": {
+      "has_industrial_iron_block": "2025-09-14 18:39:28 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/polished_andesite_layer": {
+    "criteria": {
+      "has_block": "2025-09-14 18:37:55 +0000"
     },
     "done": true
   },
@@ -7353,6 +7414,12 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-09-14 18:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-09-14 18:37:55 +0000"
     },
     "done": true
   },
