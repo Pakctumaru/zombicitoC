@@ -103,6 +103,7 @@
       "minecraft:river": "2025-09-12 18:55:41 +0000",
       "minecraft:stony_shore": "2025-09-12 18:49:05 +0000",
       "minecraft:snowy_plains": "2025-09-14 06:14:38 +0000",
+      "minecraft:dripstone_caves": "2025-09-14 17:23:03 +0000",
       "minecraft:cold_ocean": "2025-09-12 18:56:46 +0000",
       "minecraft:forest": "2025-09-12 19:16:20 +0000",
       "minecraft:desert": "2025-09-12 19:24:13 +0000",
@@ -6065,6 +6066,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-09-14 06:12:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-09-14 17:33:56 +0000"
     },
     "done": true
   },

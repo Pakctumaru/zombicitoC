@@ -919,3 +919,22 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [14Sep2025 17:18:56.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael left the game
 [14Sep2025 17:18:56.439] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client VadniesHael
 [14Sep2025 17:23:02.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported daniel16 to Taza_free
+[14Sep2025 17:29:54.244] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: VadniesHael[/127.148.46.72:41373] logged in with entity id 76250 at (-3508.023360643239, 53.0, 4281.313806475531)
+[14Sep2025 17:29:54.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael joined the game
+[14Sep2025 17:29:54.361] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to VadniesHael
+[14Sep2025 17:29:55.070] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from VadniesHael
+[14Sep2025 17:29:55.083] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of VadniesHael (18)
+[14Sep2025 17:29:55.083] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to VadniesHael
+[14Sep2025 17:31:58.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Set own game mode to Creative Mode]
+[14Sep2025 17:32:08.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Set own game mode to Survival Mode]
+[14Sep2025 17:32:13.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael has made the advancement [Enchanter]
+[14Sep2025 17:33:40.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[14Sep2025 17:35:01.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael was slain by Zombie
+[14Sep2025 17:35:03.632] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Sep2025 17:35:09.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[14Sep2025 17:39:33.894] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: daniel16 lost connection: Disconnected
+[14Sep2025 17:39:33.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: daniel16 left the game
+[14Sep2025 17:39:33.895] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client daniel16
+[14Sep2025 17:40:11.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taza_free was slain by VadniesHael
+[14Sep2025 17:40:12.983] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Sep2025 17:40:45.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported Taza_free to VadniesHael]
