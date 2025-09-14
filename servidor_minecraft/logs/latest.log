@@ -996,3 +996,8 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [14Sep2025 04:41:16.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <daniel16> zzzzzzz
 [14Sep2025 04:41:20.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <daniel16> zzzzzzzzzzzzzz
 [14Sep2025 04:41:21.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <daniel16> zzzzzzz
+[14Sep2025 04:51:33.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael was slain by daniel16
+[14Sep2025 04:51:34.763] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Sep2025 04:57:22.054] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 279.9 μs. 213/213 recipes are parallelized.
+[14Sep2025 04:58:12.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: daniel16 was slain by VadniesHael
+[14Sep2025 04:58:14.155] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
