@@ -2191,6 +2191,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-09-14 19:27:50 +0000",
       "opened_chest": "2025-09-12 19:27:09 +0000"
     },
     "done": false
@@ -6093,6 +6094,12 @@
   "createdeco:recipes/decorations/industrial_iron_hull_from_stonecutting": {
     "criteria": {
       "has_item": "2025-09-14 18:53:21 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-09-14 19:27:50 +0000"
     },
     "done": true
   },
