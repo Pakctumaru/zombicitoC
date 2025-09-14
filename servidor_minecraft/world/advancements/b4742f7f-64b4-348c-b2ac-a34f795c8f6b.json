@@ -6076,5 +6076,11 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-09-14 18:14:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
