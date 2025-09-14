@@ -97,6 +97,7 @@
       "minecraft:wooded_badlands": "2025-09-12 19:28:47 +0000",
       "minecraft:badlands": "2025-09-12 21:17:23 +0000",
       "minecraft:beach": "2025-09-12 19:18:16 +0000",
+      "minecraft:dark_forest": "2025-09-14 04:17:16 +0000",
       "minecraft:sparse_jungle": "2025-09-12 19:17:50 +0000",
       "minecraft:river": "2025-09-12 18:55:11 +0000",
       "minecraft:lukewarm_ocean": "2025-09-12 21:20:06 +0000",
@@ -281,7 +282,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-09-12 19:17:28 +0000",
+      "cooked_cod": "2025-09-14 04:19:58 +0000",
       "bread": "2025-09-12 19:01:52 +0000",
+      "golden_apple": "2025-09-14 04:15:32 +0000",
       "rotten_flesh": "2025-09-12 20:07:44 +0000"
     },
     "done": false
@@ -6427,6 +6430,18 @@
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-09-13 04:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-09-14 04:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-09-14 04:15:19 +0000"
     },
     "done": true
   },

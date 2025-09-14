@@ -931,3 +931,27 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [14Sep2025 04:15:43.994] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [14Sep2025 04:15:44.028] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/152081, l='ServerLevel[world]', x=-3148.51, y=78.00, z=4863.98, removed=DISCARDED]
 [14Sep2025 04:15:46.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[14Sep2025 04:17:59.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported daniel16 to Taza_free]
+[14Sep2025 04:19:01.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taza_free fell from a high place
+[14Sep2025 04:19:04.238] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Sep2025 04:19:04.261] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/152081, l='ServerLevel[world]', x=-3148.51, y=78.00, z=4863.98, removed=DISCARDED]
+[14Sep2025 04:19:16.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported Taza_free to daniel16]
+[14Sep2025 04:20:54.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported daniel16 to Taza_free]
+[14Sep2025 04:20:59.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[14Sep2025 04:21:08.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael starved to death
+[14Sep2025 04:21:09.991] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Sep2025 04:21:16.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[14Sep2025 04:21:16.378] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/152081, l='ServerLevel[world]', x=-3148.51, y=78.00, z=4863.98, removed=DISCARDED]
+[14Sep2025 04:21:37.539] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/152081, l='ServerLevel[world]', x=-3148.51, y=78.00, z=4863.98, removed=DISCARDED]
+[14Sep2025 04:21:42.091] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/152081, l='ServerLevel[world]', x=-3148.51, y=78.00, z=4863.98, removed=DISCARDED]
+[14Sep2025 04:23:45.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: daniel16 was slain by Zombie
+[14Sep2025 04:23:47.603] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Sep2025 04:23:52.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-25, y=90, z=10}
+[14Sep2025 04:23:53.088] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-25, y=90, z=10}
+[14Sep2025 04:23:53.139] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-26, y=90, z=10}
+[14Sep2025 04:23:53.446] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-27, y=91, z=10}
+[14Sep2025 04:23:54.034] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-28, y=91, z=8}
+[14Sep2025 04:24:11.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported daniel16 to Taza_free]
+[14Sep2025 04:24:42.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported VadniesHael to daniel16]
+[14Sep2025 04:26:31.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taza_free has made the advancement [Ice Bucket Challenge]
+[14Sep2025 04:26:52.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported VadniesHael to Taza_free]

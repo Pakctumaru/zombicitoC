@@ -95,6 +95,7 @@
       "minecraft:snowy_slopes": "2025-09-12 18:45:19 +0000",
       "minecraft:wooded_badlands": "2025-09-12 19:25:05 +0000",
       "minecraft:beach": "2025-09-12 19:19:35 +0000",
+      "minecraft:dark_forest": "2025-09-14 04:18:29 +0000",
       "minecraft:sparse_jungle": "2025-09-12 19:19:11 +0000",
       "minecraft:lukewarm_ocean": "2025-09-12 19:20:09 +0000",
       "minecraft:river": "2025-09-12 18:55:41 +0000",
@@ -170,6 +171,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-09-12 19:17:36 +0000",
+      "apple": "2025-09-14 04:17:18 +0000",
       "bread": "2025-09-12 18:52:29 +0000",
       "golden_apple": "2025-09-13 03:43:15 +0000",
       "rotten_flesh": "2025-09-12 18:47:26 +0000",
@@ -5342,6 +5344,12 @@
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-09-14 04:10:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-09-14 04:18:26 +0000"
     },
     "done": true
   },
