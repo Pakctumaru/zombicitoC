@@ -111,6 +111,7 @@
       "minecraft:jungle": "2025-09-12 19:18:07 +0000",
       "minecraft:ocean": "2025-09-12 18:57:02 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-12 18:58:17 +0000",
+      "minecraft:meadow": "2025-09-14 20:53:43 +0000",
       "minecraft:savanna": "2025-09-12 19:04:30 +0000",
       "minecraft:plains": "2025-09-12 18:51:51 +0000"
     },
@@ -250,6 +251,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-09-14 20:51:48 +0000",
       "minecraft:husk": "2025-09-12 21:08:13 +0000",
       "minecraft:zombie": "2025-09-12 19:00:49 +0000",
       "minecraft:drowned": "2025-09-12 23:22:33 +0000",
@@ -7673,6 +7675,30 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-09-14 19:26:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-09-14 20:52:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-14 20:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-09-14 20:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-09-14 20:52:36 +0000"
     },
     "done": true
   },

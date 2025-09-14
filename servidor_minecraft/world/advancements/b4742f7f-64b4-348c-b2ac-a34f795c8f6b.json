@@ -112,6 +112,7 @@
       "minecraft:warm_ocean": "2025-09-12 19:20:20 +0000",
       "minecraft:flower_forest": "2025-09-14 17:57:50 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-13 05:01:43 +0000",
+      "minecraft:meadow": "2025-09-14 20:53:34 +0000",
       "minecraft:savanna": "2025-09-12 19:05:58 +0000",
       "minecraft:plains": "2025-09-12 18:43:44 +0000"
     },
@@ -155,6 +156,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-09-14 20:51:50 +0000",
       "minecraft:husk": "2025-09-12 20:19:30 +0000",
       "minecraft:zombie": "2025-09-12 18:45:51 +0000",
       "minecraft:drowned": "2025-09-12 19:04:47 +0000",
@@ -6211,6 +6213,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-09-14 20:54:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-09-14 20:39:55 +0000"
@@ -6238,6 +6246,12 @@
   "bbb:recipes/polished_deepslate_layer": {
     "criteria": {
       "has_block": "2025-09-14 20:39:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-09-14 20:54:52 +0000"
     },
     "done": true
   },
@@ -6283,6 +6297,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-09-14 20:54:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-09-14 20:39:55 +0000"
@@ -6304,6 +6324,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-09-14 20:39:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-09-14 20:54:22 +0000"
     },
     "done": true
   },
