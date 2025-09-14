@@ -1367,3 +1367,24 @@ java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/cli
 [14Sep2025 06:19:24.634] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [14Sep2025 06:19:24.666] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/1073871, l='ServerLevel[world]', x=167.19, y=-53.00, z=106.98, removed=DISCARDED]
 [14Sep2025 06:19:24.669] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/1071773, l='ServerLevel[world]', x=179.88, y=-52.00, z=60.88, removed=DISCARDED]
+[14Sep2025 06:23:17.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobySupreme007 was slain by daniel16
+[14Sep2025 06:23:19.287] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Sep2025 06:23:19.322] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/1073871, l='ServerLevel[world]', x=167.19, y=-53.00, z=106.98, removed=DISCARDED]
+[14Sep2025 06:23:19.324] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/1071773, l='ServerLevel[world]', x=179.88, y=-52.00, z=60.88, removed=DISCARDED]
+[14Sep2025 06:24:40.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobySupreme007 was slain by Zombie
+[14Sep2025 06:24:41.744] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Sep2025 06:24:41.775] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/1073871, l='ServerLevel[world]', x=167.19, y=-53.00, z=106.98, removed=DISCARDED]
+[14Sep2025 06:24:41.777] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/1071773, l='ServerLevel[world]', x=179.88, y=-52.00, z=60.88, removed=DISCARDED]
+[14Sep2025 06:25:06.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobySupreme007 was slain by Zombie
+[14Sep2025 06:25:07.081] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/1116934, l='ServerLevel[world]', x=160.78, y=-57.00, z=77.48, removed=DISCARDED]
+[14Sep2025 06:25:07.082] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/1116934, l='ServerLevel[world]', x=160.78, y=-57.00, z=77.48, removed=DISCARDED]
+[14Sep2025 06:25:07.989] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Sep2025 06:25:08.020] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/1116934, l='ServerLevel[world]', x=160.78, y=-57.00, z=77.48, removed=DISCARDED]
+[14Sep2025 06:25:08.020] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/1073871, l='ServerLevel[world]', x=167.19, y=-53.00, z=106.98, removed=DISCARDED]
+[14Sep2025 06:25:08.022] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/1071773, l='ServerLevel[world]', x=179.88, y=-52.00, z=60.88, removed=DISCARDED]
+[14Sep2025 06:27:22.176] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoobySupreme007 lost connection: Disconnected
+[14Sep2025 06:27:22.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobySupreme007 left the game
+[14Sep2025 06:27:22.177] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NoobySupreme007
+[14Sep2025 06:27:23.179] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: daniel16 lost connection: Disconnected
+[14Sep2025 06:27:23.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: daniel16 left the game
+[14Sep2025 06:27:23.180] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client daniel16
