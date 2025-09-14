@@ -104,6 +104,7 @@
       "minecraft:desert": "2025-09-12 19:24:13 +0000",
       "minecraft:ocean": "2025-09-12 19:02:11 +0000",
       "minecraft:warm_ocean": "2025-09-12 19:20:20 +0000",
+      "minecraft:old_growth_birch_forest": "2025-09-13 05:01:43 +0000",
       "minecraft:savanna": "2025-09-12 19:05:58 +0000",
       "minecraft:plains": "2025-09-12 18:43:44 +0000"
     },
@@ -172,6 +173,7 @@
       "bread": "2025-09-12 18:52:29 +0000",
       "golden_apple": "2025-09-13 03:43:15 +0000",
       "rotten_flesh": "2025-09-12 18:47:26 +0000",
+      "golden_carrot": "2025-09-13 04:33:57 +0000",
       "carrot": "2025-09-13 04:26:09 +0000"
     },
     "done": false
@@ -4766,19 +4768,73 @@
     },
     "done": true
   },
-  "bloomingnature:recipes/red_brick_wall": {
+  "create:recipes/misc/crafting/kinetics/controller_rail": {
     "criteria": {
-      "has_red_brick": "2025-09-13 03:57:26 +0000"
+      "has_item": "2025-09-13 03:37:54 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/chicken_soup": {
+  "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
-      "has_any_ingredient": "2025-09-13 04:14:37 +0000"
+      "has_rail": "2025-09-13 03:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-09-13 03:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-09-13 03:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-09-13 03:45:38 +0000"
     },
     "done": true
   },
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-09-13 03:45:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-09-13 03:45:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-09-13 03:45:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-09-13 03:45:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-09-13 03:45:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-09-13 03:45:58 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
     "criteria": {
       "has_wheat": "2025-09-13 03:45:58 +0000"
     },
@@ -4790,58 +4846,57 @@
     },
     "done": true
   },
-  "bloomingnature:recipes/larch_fence_gate": {
+  "refurbished_furniture:recipes/heating/baked_potato": {
     "criteria": {
-      "has_larch_planks": "2025-09-13 03:58:06 +0000"
+      "has_ingredient": "2025-09-13 03:53:54 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/plant_all_crops": {
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
-      "potato": "2025-09-13 04:11:32 +0000",
-      "carrot": "2025-09-13 04:14:40 +0000"
+      "has_potato": "2025-09-13 03:53:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "bloomingnature:recipes/larch_fence": {
+  "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
-      "has_larch_planks": "2025-09-13 03:58:06 +0000"
+      "has_potato": "2025-09-13 03:53:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-09-13 03:53:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-09-13 03:53:54 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/red_brick_wall": {
+    "criteria": {
+      "has_red_brick": "2025-09-13 03:57:26 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/red_brick_slab": {
+    "criteria": {
+      "has_red_brick": "2025-09-13 03:57:26 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/red_brick_stairs": {
+    "criteria": {
+      "has_red_brick": "2025-09-13 03:57:26 +0000"
     },
     "done": true
   },
   "bloomingnature:recipes/fir_hanging_sign": {
     "criteria": {
       "has_fir_planks": "2025-09-13 03:57:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-09-13 04:10:52 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
-    "criteria": {
-      "has_item": "2025-09-13 04:13:55 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/larch_boat": {
-    "criteria": {
-      "has_larch_planks": "2025-09-13 03:58:06 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-09-13 04:10:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/heating/baked_potato": {
-    "criteria": {
-      "has_ingredient": "2025-09-13 03:53:54 +0000"
     },
     "done": true
   },
@@ -4863,45 +4918,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/pie_crust": {
-    "criteria": {
-      "has_wheat": "2025-09-13 03:45:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-09-13 03:37:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-09-13 03:53:54 +0000"
-    },
-    "done": true
-  },
   "bloomingnature:recipes/fir_trapdoor": {
     "criteria": {
       "has_fir_planks": "2025-09-13 03:57:48 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
-    "criteria": {
-      "has_wheat": "2025-09-13 03:45:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/tree_fertilizer": {
-    "criteria": {
-      "has_item": "2025-09-13 04:13:55 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/larch_button": {
-    "criteria": {
-      "has_larch_planks": "2025-09-13 03:58:06 +0000"
     },
     "done": true
   },
@@ -4911,57 +4930,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-09-13 03:45:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-09-13 03:37:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-09-13 03:53:54 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-09-13 04:14:37 +0000"
-    },
-    "done": true
-  },
-  "projectvibrantjourneys:recipes/building_blocks/stick_from_twigs": {
-    "criteria": {
-      "has_twigs": "2025-09-13 04:18:49 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/rabbit_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-09-13 04:14:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-09-13 04:13:55 +0000"
-    },
-    "done": true
-  },
   "bloomingnature:recipes/fir_slab": {
     "criteria": {
       "has_fir_planks": "2025-09-13 03:57:48 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/larch_window": {
-    "criteria": {
-      "has_larch_planks": "2025-09-13 03:58:06 +0000"
     },
     "done": true
   },
@@ -4971,39 +4942,57 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/baking/baked_potato": {
-    "criteria": {
-      "has_ingredient": "2025-09-13 03:53:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-09-13 03:45:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-09-13 03:45:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-09-13 03:37:57 +0000"
-    },
-    "done": true
-  },
   "bloomingnature:recipes/fir_window": {
     "criteria": {
       "has_fir_planks": "2025-09-13 03:57:48 +0000"
     },
     "done": true
   },
-  "bloomingnature:recipes/red_brick_slab": {
+  "bloomingnature:recipes/fir_button": {
     "criteria": {
-      "has_red_brick": "2025-09-13 03:57:26 +0000"
+      "has_fir_planks": "2025-09-13 03:57:48 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/fir_sign": {
+    "criteria": {
+      "has_fir_planks": "2025-09-13 03:57:48 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/fir_door": {
+    "criteria": {
+      "has_fir_planks": "2025-09-13 03:57:48 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/larch_fence_gate": {
+    "criteria": {
+      "has_larch_planks": "2025-09-13 03:58:06 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/larch_fence": {
+    "criteria": {
+      "has_larch_planks": "2025-09-13 03:58:06 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/larch_boat": {
+    "criteria": {
+      "has_larch_planks": "2025-09-13 03:58:06 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/larch_button": {
+    "criteria": {
+      "has_larch_planks": "2025-09-13 03:58:06 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/larch_window": {
+    "criteria": {
+      "has_larch_planks": "2025-09-13 03:58:06 +0000"
     },
     "done": true
   },
@@ -5019,27 +5008,9 @@
     },
     "done": true
   },
-  "bloomingnature:recipes/fir_button": {
-    "criteria": {
-      "has_fir_planks": "2025-09-13 03:57:48 +0000"
-    },
-    "done": true
-  },
   "bloomingnature:recipes/larch_sign": {
     "criteria": {
       "has_larch_planks": "2025-09-13 03:58:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-09-13 04:13:55 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/controller_rail": {
-    "criteria": {
-      "has_item": "2025-09-13 03:37:54 +0000"
     },
     "done": true
   },
@@ -5049,33 +5020,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-09-13 03:53:54 +0000"
-    },
-    "done": true
-  },
   "bloomingnature:recipes/larch_trapdoor": {
     "criteria": {
       "has_larch_planks": "2025-09-13 03:58:06 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_noodles": {
-    "criteria": {
-      "has_any_ingredient": "2025-09-13 04:14:37 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_water": {
-    "criteria": {
-      "has_wheat": "2025-09-13 03:45:58 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/fir_sign": {
-    "criteria": {
-      "has_fir_planks": "2025-09-13 03:57:48 +0000"
     },
     "done": true
   },
@@ -5085,9 +5032,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+  "bloomingnature:recipes/larch_hanging_sign": {
     "criteria": {
-      "has_wheat": "2025-09-13 03:45:58 +0000"
+      "has_larch_planks": "2025-09-13 03:58:06 +0000"
     },
     "done": true
   },
@@ -5097,27 +5044,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/fried_rice": {
+  "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
-      "has_any_ingredient": "2025-09-13 04:14:37 +0000"
+      "dirt": "2025-09-13 04:06:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-09-13 04:10:52 +0000"
     },
     "done": true
   },
-  "bloomingnature:recipes/larch_hanging_sign": {
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
     "criteria": {
-      "has_larch_planks": "2025-09-13 03:58:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-09-13 04:14:37 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/red_brick_stairs": {
-    "criteria": {
-      "has_red_brick": "2025-09-13 03:57:26 +0000"
+      "has_oxeye_daisy": "2025-09-13 04:10:52 +0000"
     },
     "done": true
   },
@@ -5127,15 +5068,280 @@
     },
     "done": true
   },
-  "immersive_weathering:immersive_weathering/dirts": {
+  "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "dirt": "2025-09-13 04:06:20 +0000"
+      "potato": "2025-09-13 04:11:32 +0000",
+      "carrot": "2025-09-13 04:14:40 +0000"
     },
     "done": false
   },
-  "bloomingnature:recipes/fir_door": {
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
     "criteria": {
-      "has_fir_planks": "2025-09-13 03:57:48 +0000"
+      "has_item": "2025-09-13 04:13:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-09-13 04:13:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-09-13 04:13:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-09-13 04:13:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-13 04:14:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-13 04:14:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-13 04:14:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-13 04:14:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-13 04:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-09-13 04:14:37 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/building_blocks/stick_from_twigs": {
+    "criteria": {
+      "has_twigs": "2025-09-13 04:18:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-09-13 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-09-13 04:28:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-09-13 04:28:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-09-13 04:43:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-09-13 04:43:22 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/polished_diorite_layer": {
+    "criteria": {
+      "has_block": "2025-09-13 04:43:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-09-13 04:43:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-09-13 04:43:22 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/quartz_moulding": {
+    "criteria": {
+      "has_block": "2025-09-13 04:43:33 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/quartz_urn": {
+    "criteria": {
+      "has_block": "2025-09-13 04:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-09-13 04:43:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_pillar_trim": {
+    "criteria": {
+      "has_quartz_pillar_trim": "2025-09-13 04:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-09-13 04:43:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/plate": {
+    "criteria": {
+      "has_quartz_block": "2025-09-13 04:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-09-13 04:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-09-13 04:43:33 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/quartz_layer": {
+    "criteria": {
+      "has_block": "2025-09-13 04:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-09-13 04:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-09-13 04:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-09-13 04:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-09-13 04:43:33 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/quartz_fence": {
+    "criteria": {
+      "has_block": "2025-09-13 04:43:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_corner_trim": {
+    "criteria": {
+      "has_quartz_corner_trim": "2025-09-13 04:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-09-13 04:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-09-13 04:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-09-13 04:43:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-09-13 04:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-09-13 04:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-09-13 04:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-09-13 04:54:20 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/white_dye_from_white_orchid": {
+    "criteria": {
+      "has_white_orchid": "2025-09-13 04:56:26 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/white_dye_from_foxglove_white": {
+    "criteria": {
+      "has_foxglove_white": "2025-09-13 04:56:26 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/yellow_dye_from_genisteae": {
+    "criteria": {
+      "has_genisteae": "2025-09-13 05:00:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-09-14 04:10:38 +0000"
     },
     "done": true
   },
