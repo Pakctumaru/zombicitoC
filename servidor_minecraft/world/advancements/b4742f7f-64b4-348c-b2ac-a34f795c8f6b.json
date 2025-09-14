@@ -93,6 +93,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-09-12 18:45:19 +0000",
+      "minecraft:taiga": "2025-09-14 20:59:31 +0000",
       "minecraft:deep_ocean": "2025-09-14 18:37:10 +0000",
       "minecraft:frozen_river": "2025-09-14 06:16:03 +0000",
       "minecraft:sunflower_plains": "2025-09-14 05:39:16 +0000",
@@ -6282,6 +6283,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-09-14 20:39:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/green_dye_from_lily_pad": {
+    "criteria": {
+      "has_lily_pad": "2025-09-14 20:58:53 +0000"
     },
     "done": true
   },
