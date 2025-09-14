@@ -186,6 +186,7 @@
       "golden_apple": "2025-09-13 03:43:15 +0000",
       "rotten_flesh": "2025-09-12 18:47:26 +0000",
       "golden_carrot": "2025-09-13 04:33:57 +0000",
+      "cod": "2025-09-14 19:06:35 +0000",
       "carrot": "2025-09-13 04:26:09 +0000"
     },
     "done": false
@@ -6095,6 +6096,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-09-14 19:21:21 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/industrial_iron_hull": {
     "criteria": {
       "has_item": "2025-09-14 18:53:21 +0000"
@@ -6107,15 +6114,75 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/iron_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-09-14 19:21:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-09-14 19:06:32 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/misc/crafting/small_buffer": {
     "criteria": {
       "has_item": "2025-09-14 18:53:21 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-09-14 19:06:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-09-14 19:21:21 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/transportation/conductor_vent_from_industrial_iron_block_stonecutting": {
     "criteria": {
       "has_industrial_iron_block": "2025-09-14 18:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-09-14 19:06:32 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_vertical_stairs_from_conversion": {
+    "criteria": {
+      "has_item": "2025-09-14 19:09:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/linked_controller": {
+    "criteria": {
+      "has_item": "2025-09-14 19:19:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-14 19:06:32 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_hull": {
+    "criteria": {
+      "has_item": "2025-09-14 19:21:21 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-09-14 19:21:21 +0000"
     },
     "done": true
   },
