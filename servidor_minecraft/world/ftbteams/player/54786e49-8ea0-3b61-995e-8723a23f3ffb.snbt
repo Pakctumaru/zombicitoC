@@ -1,0 +1,17 @@
+{
+	id: "54786e49-8ea0-3b61-995e-8723a23f3ffb"
+	type: "player"
+	player_name: "NoobySupreme007"
+	ranks: {
+		54786e49-8ea0-3b61-995e-8723a23f3ffb: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "NoobySupreme007"
+		"ftbteams:description": ""
+		"ftbteams:color": "#73FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

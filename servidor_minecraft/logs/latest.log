@@ -1059,3 +1059,245 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [14Sep2025 05:16:57.944] [Server thread/WARN] [pointblank/]: Skipping loading of outdated or expired slot mappings.
 [14Sep2025 05:16:58.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael was slain by daniel16
 [14Sep2025 05:17:00.172] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Sep2025 05:18:54.913] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8997ms or 179 ticks behind
+[14Sep2025 05:18:54.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VadniesHael moved too quickly! -2.6961456765543517,2.0,9.594508895953368
+[14Sep2025 05:19:30.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[14Sep2025 05:19:48.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2997ms or 59 ticks behind
+[14Sep2025 05:19:55.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael was slain by daniel16
+[14Sep2025 05:19:56.360] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Sep2025 05:20:00.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported VadniesHael to daniel16]
+[14Sep2025 05:20:05.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2605ms or 52 ticks behind
+[14Sep2025 05:20:23.826] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[14Sep2025 05:23:52.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: daniel16 was slain by VadniesHael
+[14Sep2025 05:23:54.396] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Sep2025 05:24:09.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael was slain by daniel16
+[14Sep2025 05:24:10.909] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Sep2025 05:26:49.452] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/798590, l='ServerLevel[world]', x=-3498.14, y=67.00, z=4294.01, removed=DISCARDED]
+[14Sep2025 05:26:49.453] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/798590, l='ServerLevel[world]', x=-3498.14, y=67.00, z=4294.01, removed=DISCARDED]
+[14Sep2025 05:26:49.453] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/798590, l='ServerLevel[world]', x=-3498.14, y=67.00, z=4294.01, removed=DISCARDED]
+[14Sep2025 05:26:55.397] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/799472, l='ServerLevel[world]', x=-3498.64, y=66.77, z=4295.10, removed=DISCARDED]
+[14Sep2025 05:26:55.397] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/799472, l='ServerLevel[world]', x=-3498.64, y=66.77, z=4295.10, removed=DISCARDED]
+[14Sep2025 05:26:55.397] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/799472, l='ServerLevel[world]', x=-3498.64, y=66.77, z=4295.10, removed=DISCARDED]
+[14Sep2025 05:28:02.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael was doomed to fall by daniel16
+[14Sep2025 05:28:04.212] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Sep2025 05:28:04.263] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/798590, l='ServerLevel[world]', x=-3498.14, y=67.00, z=4294.01, removed=DISCARDED]
+[14Sep2025 05:28:04.264] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/799472, l='ServerLevel[world]', x=-3498.64, y=66.77, z=4295.10, removed=DISCARDED]
+[14Sep2025 05:30:46.721] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[14Sep2025 05:30:46.735] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[14Sep2025 05:30:46.736] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[14Sep2025 05:30:46.737] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[14Sep2025 05:30:46.738] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[14Sep2025 05:30:46.739] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[14Sep2025 05:30:46.741] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[14Sep2025 05:30:46.743] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[14Sep2025 05:30:46.744] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[14Sep2025 05:30:46.745] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[14Sep2025 05:30:46.755] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[14Sep2025 05:30:46.756] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[14Sep2025 05:30:46.762] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[14Sep2025 05:30:46.763] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[14Sep2025 05:30:46.764] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[14Sep2025 05:30:46.765] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[14Sep2025 05:30:46.766] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[14Sep2025 05:30:46.768] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[14Sep2025 05:30:46.770] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[14Sep2025 05:30:46.772] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[14Sep2025 05:30:46.772] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[14Sep2025 05:30:46.774] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[14Sep2025 05:30:46.784] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[14Sep2025 05:30:46.784] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[14Sep2025 05:30:54.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10488ms or 209 ticks behind
+[14Sep2025 05:30:54.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: daniel16 moved too quickly! -3.63379333321609,0.0,9.392453541336181
+[14Sep2025 05:30:54.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taza_free moved too quickly! 9.839068767955723,1.1661092609382138,-1.932199143505386
+[14Sep2025 05:30:54.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VadniesHael moved too quickly! 5.514608272797432,-3.95304430154593,7.482316165745033
+[14Sep2025 05:31:26.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VadniesHael moved wrongly!
+[14Sep2025 05:32:44.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael was slain by daniel16
+[14Sep2025 05:32:45.509] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Sep2025 05:32:45.562] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/798590, l='ServerLevel[world]', x=-3498.14, y=67.00, z=4294.01, removed=DISCARDED]
+[14Sep2025 05:32:45.563] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/799472, l='ServerLevel[world]', x=-3498.64, y=66.77, z=4295.10, removed=DISCARDED]
+[14Sep2025 05:32:56.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: daniel16 was slain by Taza_free
+[14Sep2025 05:32:57.990] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Sep2025 05:32:58.028] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/798590, l='ServerLevel[world]', x=-3498.14, y=67.00, z=4294.01, removed=DISCARDED]
+[14Sep2025 05:32:58.028] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/799472, l='ServerLevel[world]', x=-3498.64, y=66.77, z=4295.10, removed=DISCARDED]
+[14Sep2025 05:37:29.902] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/799472, l='ServerLevel[world]', x=-3498.64, y=66.77, z=4295.10, removed=DISCARDED]
+[14Sep2025 05:37:30.063] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/798590, l='ServerLevel[world]', x=-3498.14, y=67.00, z=4294.01, removed=DISCARDED]
+[14Sep2025 05:37:34.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael fell from a high place
+[14Sep2025 05:37:35.657] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Sep2025 05:37:35.700] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/798590, l='ServerLevel[world]', x=-3498.14, y=67.00, z=4294.01, removed=DISCARDED]
+[14Sep2025 05:37:35.700] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/799472, l='ServerLevel[world]', x=-3498.64, y=66.77, z=4295.10, removed=DISCARDED]
+[14Sep2025 05:40:00.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: daniel16 has made the advancement [Penteconter]
+[14Sep2025 05:40:56.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[14Sep2025 05:41:13.948] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2632ms or 52 ticks behind
+[14Sep2025 05:41:33.602] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4686ms or 93 ticks behind
+[14Sep2025 05:41:49.444] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: daniel16 lost connection: Disconnected
+[14Sep2025 05:41:49.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: daniel16 left the game
+[14Sep2025 05:41:49.454] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client daniel16
+[14Sep2025 05:41:52.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4241ms or 84 ticks behind
+[14Sep2025 05:42:11.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3943ms or 78 ticks behind
+[14Sep2025 05:42:30.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4009ms or 80 ticks behind
+[14Sep2025 05:42:50.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4877ms or 97 ticks behind
+[14Sep2025 05:43:08.342] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2826ms or 56 ticks behind
+[14Sep2025 05:43:26.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2902ms or 58 ticks behind
+[14Sep2025 05:43:43.373] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2157ms or 43 ticks behind
+[14Sep2025 05:44:01.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2908ms or 58 ticks behind
+[14Sep2025 05:44:13.594] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/925410, l='ServerLevel[world]', x=-3732.47, y=90.00, z=4897.63, removed=DISCARDED]
+[14Sep2025 05:44:19.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3255ms or 65 ticks behind
+[14Sep2025 05:44:37.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3465ms or 69 ticks behind
+[14Sep2025 05:44:56.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3689ms or 73 ticks behind
+[14Sep2025 05:45:14.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3108ms or 62 ticks behind
+[14Sep2025 05:45:33.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3756ms or 75 ticks behind
+[14Sep2025 05:45:50.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2231ms or 44 ticks behind
+[14Sep2025 05:46:09.123] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[14Sep2025 05:46:26.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2476ms or 49 ticks behind
+[14Sep2025 05:46:43.949] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2383ms or 47 ticks behind
+[14Sep2025 05:47:04.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VadniesHael lost connection: Disconnected
+[14Sep2025 05:47:04.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael left the game
+[14Sep2025 05:47:04.255] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client VadniesHael
+[14Sep2025 05:49:00.796] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taza_free lost connection: Disconnected
+[14Sep2025 05:49:00.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taza_free left the game
+[14Sep2025 05:49:00.800] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Taza_free
+[14Sep2025 05:50:09.790] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoobySupreme007[/127.78.219.98:52885] logged in with entity id 944126 at (-13.5, 86.0, 18.5)
+[14Sep2025 05:50:09.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobySupreme007 joined the game
+[14Sep2025 05:50:09.882] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to NoobySupreme007
+[14Sep2025 05:50:10.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobySupreme007 has made the advancement [Suit Up]
+[14Sep2025 05:50:10.525] [Netty Epoll Server IO #3/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from NoobySupreme007
+[14Sep2025 05:50:10.574] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of NoobySupreme007 (18)
+[14Sep2025 05:50:10.575] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to NoobySupreme007
+[14Sep2025 05:50:14.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobySupreme007 has made the advancement [Mine? Mine? Mine?]
+[14Sep2025 05:50:57.347] [Server thread/INFO] [BinocularsItem/]: BinocularsItem use() called. Hand: MAIN_HAND, Player: NoobySupreme007
+[14Sep2025 05:50:57.348] [Server thread/INFO] [BinocularsItem/]: Current item usage state: false
+[14Sep2025 05:50:57.348] [Server thread/INFO] [BinocularsItem/]: Sending network message from server
+[14Sep2025 05:50:57.353] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/keerdm/binocularsmod/client/BinocularsOverlay for invalid dist DEDICATED_SERVER
+[14Sep2025 05:50:57.354] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemPacket@4da4ae18, suppressing error
+java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/client/BinocularsOverlay for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.4.3.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.keerdm.binocularsmod.item.BinocularsItem.m_7203_(BinocularsItem.java:53) ~[binocularsmod-1.02.jar%23309!/:1.02]
+	at net.minecraft.world.item.ItemStack.m_41682_(ItemStack.java:275) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameMode.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerGamePacketListenerImpl.java:1085) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:7) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[14Sep2025 05:50:58.088] [Server thread/INFO] [BinocularsItem/]: BinocularsItem use() called. Hand: MAIN_HAND, Player: NoobySupreme007
+[14Sep2025 05:50:58.088] [Server thread/INFO] [BinocularsItem/]: Current item usage state: false
+[14Sep2025 05:50:58.088] [Server thread/INFO] [BinocularsItem/]: Sending network message from server
+[14Sep2025 05:50:58.090] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/keerdm/binocularsmod/client/BinocularsOverlay for invalid dist DEDICATED_SERVER
+[14Sep2025 05:50:58.090] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemPacket@2ec0497d, suppressing error
+java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/client/BinocularsOverlay for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.4.3.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.keerdm.binocularsmod.item.BinocularsItem.m_7203_(BinocularsItem.java:53) ~[binocularsmod-1.02.jar%23309!/:1.02]
+	at net.minecraft.world.item.ItemStack.m_41682_(ItemStack.java:275) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameMode.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerGamePacketListenerImpl.java:1085) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:7) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[14Sep2025 05:51:15.098] [Server thread/INFO] [BinocularsItem/]: BinocularsItem use() called. Hand: MAIN_HAND, Player: NoobySupreme007
+[14Sep2025 05:51:15.099] [Server thread/INFO] [BinocularsItem/]: Current item usage state: false
+[14Sep2025 05:51:15.099] [Server thread/INFO] [BinocularsItem/]: Sending network message from server
+[14Sep2025 05:51:15.101] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/keerdm/binocularsmod/client/BinocularsOverlay for invalid dist DEDICATED_SERVER
+[14Sep2025 05:51:15.101] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemPacket@50b28856, suppressing error
+java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/client/BinocularsOverlay for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.4.3.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.keerdm.binocularsmod.item.BinocularsItem.m_7203_(BinocularsItem.java:53) ~[binocularsmod-1.02.jar%23309!/:1.02]
+	at net.minecraft.world.item.ItemStack.m_41682_(ItemStack.java:275) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameMode.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerGamePacketListenerImpl.java:1085) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:7) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23474!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[14Sep2025 05:51:42.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobySupreme007 was slain by Zombie
+[14Sep2025 05:51:57.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[14Sep2025 05:52:01.847] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Sep2025 05:54:31.115] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Taza_free[/127.191.98.28:42341] logged in with entity id 951466 at (-3719.300000011921, 84.0, 4905.517709636584)
+[14Sep2025 05:54:31.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taza_free joined the game
+[14Sep2025 05:54:31.147] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Taza_free
+[14Sep2025 05:54:32.775] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Taza_free
+[14Sep2025 05:54:32.780] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Taza_free (18)
+[14Sep2025 05:54:32.781] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Taza_free
+[14Sep2025 05:54:32.916] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/925410, l='ServerLevel[world]', x=-3732.47, y=90.00, z=4897.63, removed=DISCARDED]
+[14Sep2025 05:54:37.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported NoobySupreme007 to Taza_free
+[14Sep2025 05:54:37.057] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/925410, l='ServerLevel[world]', x=-3732.47, y=90.00, z=4897.63, removed=DISCARDED]
+[14Sep2025 05:55:42.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobySupreme007 has made the advancement [Monster Hunter]
+[14Sep2025 05:55:44.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobySupreme007 has made the advancement [Acquire Hardware]
+[14Sep2025 05:56:54.370] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: daniel16[/127.156.158.246:54351] logged in with entity id 961622 at (-3708.9827940101572, 67.0, 4519.887605167482)
+[14Sep2025 05:56:54.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: daniel16 joined the game
+[14Sep2025 05:56:54.402] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to daniel16
+[14Sep2025 05:56:56.628] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from daniel16
+[14Sep2025 05:56:56.779] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of daniel16 (18)
+[14Sep2025 05:56:56.780] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to daniel16
+[14Sep2025 05:57:12.157] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/925410, l='ServerLevel[world]', x=-3732.47, y=90.00, z=4897.63, removed=DISCARDED]
+[14Sep2025 05:57:19.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[14Sep2025 05:57:30.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobySupreme007 was slain by Zombie
+[14Sep2025 05:57:32.375] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Sep2025 05:57:38.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[14Sep2025 05:57:56.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2759ms or 55 ticks behind
+[14Sep2025 05:58:15.373] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4007ms or 80 ticks behind
+[14Sep2025 05:58:35.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5046ms or 100 ticks behind
+[14Sep2025 05:58:38.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Taza_free to daniel16

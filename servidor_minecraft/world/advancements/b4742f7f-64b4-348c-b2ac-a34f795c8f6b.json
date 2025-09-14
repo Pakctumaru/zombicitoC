@@ -93,6 +93,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-09-12 18:45:19 +0000",
+      "minecraft:sunflower_plains": "2025-09-14 05:39:16 +0000",
       "minecraft:wooded_badlands": "2025-09-12 19:25:05 +0000",
       "minecraft:beach": "2025-09-12 19:19:35 +0000",
       "minecraft:dark_forest": "2025-09-14 04:18:29 +0000",
@@ -171,8 +172,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-09-12 19:17:36 +0000",
+      "baked_potato": "2025-09-14 05:23:43 +0000",
       "beef": "2025-09-14 04:29:16 +0000",
       "apple": "2025-09-14 04:17:18 +0000",
+      "potato": "2025-09-14 05:25:41 +0000",
       "cooked_cod": "2025-09-14 04:35:48 +0000",
       "bread": "2025-09-12 18:52:29 +0000",
       "golden_apple": "2025-09-13 03:43:15 +0000",
@@ -5367,6 +5370,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-09-14 05:39:02 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-09-14 05:40:00 +0000"
+    },
+    "done": true
+  },
   "walkietalkie:recipes/diamond_walkietalkie": {
     "criteria": {
       "has_redstone": "2025-09-14 04:54:07 +0000"
@@ -5382,6 +5397,12 @@
   "bbb:recipes/bamboo_pallet": {
     "criteria": {
       "has_planks": "2025-09-14 04:46:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-09-14 05:39:02 +0000"
     },
     "done": true
   },
@@ -5445,9 +5466,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-09-14 05:27:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/light_blue_dye_from_blue_orchid": {
     "criteria": {
       "has_blue_orchid": "2025-09-14 04:35:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-09-14 05:27:21 +0000"
     },
     "done": true
   },
@@ -5622,6 +5655,24 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-09-14 04:54:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-14 05:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-09-14 05:39:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-14 05:39:02 +0000"
     },
     "done": true
   },
