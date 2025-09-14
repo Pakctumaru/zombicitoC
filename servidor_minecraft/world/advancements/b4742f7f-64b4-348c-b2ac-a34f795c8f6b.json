@@ -6097,18 +6097,6 @@
     },
     "done": true
   },
-  "lootr:1barrel": {
-    "criteria": {
-      "opened_barrel": "2025-09-14 19:27:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-09-14 19:21:21 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/industrial_iron_hull": {
     "criteria": {
       "has_item": "2025-09-14 18:53:21 +0000"
@@ -6121,33 +6109,9 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/iron_hull_from_stonecutting": {
-    "criteria": {
-      "has_item": "2025-09-14 19:21:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-09-14 19:06:32 +0000"
-    },
-    "done": true
-  },
   "railways:recipes/misc/crafting/small_buffer": {
     "criteria": {
       "has_item": "2025-09-14 18:53:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2025-09-14 19:06:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2025-09-14 19:21:21 +0000"
     },
     "done": true
   },
@@ -6157,9 +6121,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-09-14 19:06:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-09-14 19:06:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-09-14 19:06:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-14 19:06:32 +0000"
     },
     "done": true
   },
@@ -6175,9 +6157,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/fish_stew": {
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
-      "has_any_ingredient": "2025-09-14 19:06:32 +0000"
+      "has_iron_block": "2025-09-14 19:21:21 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-09-14 19:21:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-09-14 19:21:21 +0000"
     },
     "done": true
   },
@@ -6190,6 +6184,12 @@
   "railways:recipes/misc/stonecutting/riveted_locometal": {
     "criteria": {
       "has_item": "2025-09-14 19:21:21 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-09-14 19:27:50 +0000"
     },
     "done": true
   },
